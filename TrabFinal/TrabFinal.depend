@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1654997475 source:c:\users\caio\desktop\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1654995552 c:\users\caio\desktop\trabfinal\trabfinal.h
+
+1654997426 source:c:\users\caio\desktop\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1654997833 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+
+1654998034 \\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.h
+
+1654998022 source:\\desktop-qp41vbu\compartilhamento\ifsp\3 semestre\estrutura de dados\trabfinal\trabfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"trabFinal.h"
+

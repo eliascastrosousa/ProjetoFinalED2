@@ -1,0 +1,2299 @@
+54651;Bryar L. Lott;47;Yahoo;Payroll;2255.08
+45677;Martina S. Clark;55;Lavasoft;Payroll;7993.68
+52910;Bell E. Larsen;64;Microsoft;Finances;3968.72
+1957;Kai I. Conrad;43;Google;Finances;3137.52
+20618;Carson K. Fuller;26;Lycos;Media Relations;3880.22
+58123;Rosalyn I. Fox;64;Sibelius;Finances;5146.93
+37856;Beverly U. Garcia;53;Cakewalk;Finances;1806.23
+90934;Avye C. Jefferson;26;Microsoft;Accounting;5592.98
+49621;Leslie S. Tyson;26;Microsoft;Legal Department;8068.89
+41892;India W. Ward;55;Lycos;Advertising;6174.83
+8204;Gray I. Britt;21;Google;Asset Management;5506.05
+69866;Keely Q. Velasquez;29;Google;Legal Department;6184.73
+79677;Chester B. Christian;56;Microsoft;Human Resources;5678.96
+30892;Olga Y. Dean;40;Cakewalk;Customer Service;7781.96
+72717;Belle C. Davidson;65;Chami;Research and Development;6659.23
+28657;Adena L. Pickett;26;Borland;Human Resources;1363.32
+38095;Colin X. Osborn;50;Adobe;Media Relations;5162.95
+96315;Akeem U. Gates;62;Finale;Media Relations;4948.79
+84279;Gwendolyn E. Whitehead;26;Altavista;Quality Assurance;5101.96
+27997;Murphy D. Hickman;49;Google;Human Resources;7468.2
+14065;Nita Y. Mcleod;21;Borland;Customer Relations;4461.79
+3789;Jason K. Gillespie;70;Chami;Human Resources;4900.06
+72588;Jayme C. Fry;57;Microsoft;Tech Support;3019.15
+12587;Brady S. Cantu;59;Adobe;Payroll;1212.06
+1134;Hammett N. Gordon;43;Microsoft;Public Relations;2646.54
+97108;Ocean J. Lindsey;70;Yahoo;Quality Assurance;1534.51
+12438;Nolan D. Bentley;58;Macromedia;Tech Support;8183.23
+27034;Reece V. Pearson;56;Adobe;Customer Service;9809.23
+1515;Marsden I. Eaton;52;Microsoft;Public Relations;8750.37
+86461;Sierra M. Pittman;18;Google;Human Resources;1778.83
+39391;Finn B. Stewart;25;Adobe;Asset Management;3021.62
+18321;Colorado R. Harrington;57;Adobe;Sales and Marketing;9150.58
+2063;Anika Q. Levy;46;Sibelius;Human Resources;7319.54
+12626;Rama X. Pearson;37;Lycos;Human Resources;6473.3
+93223;Hillary E. Wooten;44;Adobe;Sales and Marketing;2387.7
+48171;Raven M. Harrington;40;Yahoo;Tech Support;8142.29
+26959;Cara T. Romero;42;Sibelius;Public Relations;1318.43
+85480;Alma B. Pitts;69;Adobe;Research and Development;8937.57
+18652;Tanya C. Luna;69;Sibelius;Customer Relations;3682.95
+70684;Louis G. Clarke;31;Sibelius;Media Relations;6216.64
+69651;Kelly D. Oliver;34;Microsoft;Public Relations;2059.76
+3438;Sonya E. Whitaker;55;Apple Systems;Media Relations;2239.49
+26875;Upton H. Morris;52;Yahoo;Asset Management;9175.03
+75903;Ifeoma K. Alvarez;53;Yahoo;Public Relations;6433.44
+77944;Aileen F. Flynn;65;Cakewalk;Payroll;4154.75
+49799;Galvin O. Sharp;28;Apple Systems;Sales and Marketing;8057.17
+70322;Keaton U. Shelton;25;Apple Systems;Public Relations;9856.62
+67826;Barbara K. May;70;Yahoo;Public Relations;6334.77
+32572;Hasad L. Blackwell;20;Google;Sales and Marketing;9225.53
+8838;Carly W. Beach;60;Borland;Payroll;9046.85
+99581;Kameko X. Little;37;Lavasoft;Tech Support;8342.57
+53817;Dai F. Holland;68;Sibelius;Finances;2991.52
+99831;Chase H. Tate;50;Yahoo;Payroll;9028.34
+22975;Benedict Y. Moran;52;Cakewalk;Human Resources;5953.09
+37792;Lacey U. Hammond;52;Macromedia;Sales and Marketing;2976.64
+17587;Dylan D. Snow;28;Microsoft;Public Relations;1444.66
+92281;Tobias O. Cherry;65;Borland;Sales and Marketing;1239.3
+31178;Jaime K. Riley;36;Lycos;Accounting;7824.79
+86263;Callie J. Lott;40;Cakewalk;Tech Support;7296.41
+20310;Faith F. Mccall;18;Finale;Accounting;5225.83
+84858;Vivien I. Snyder;64;Yahoo;Quality Assurance;2087.11
+32018;Price X. Chapman;25;Lavasoft;Public Relations;4387.16
+91648;Quinn L. Knowles;37;Finale;Customer Service;6168.08
+42182;Malik H. Floyd;28;Adobe;Sales and Marketing;6220.9
+94568;Myra C. Boyd;34;Sibelius;Media Relations;7784.05
+81073;Aristotle R. Acosta;61;Sibelius;Public Relations;5248.42
+87352;Rowan S. Travis;53;Macromedia;Tech Support;9853.73
+16450;Callum U. Anderson;43;Lavasoft;Customer Relations;6494.93
+19917;McKenzie Q. Fitzpatrick;55;Adobe;Finances;8569.92
+25292;Olga D. Charles;25;Borland;Payroll;6164.59
+99641;Molly I. Farmer;52;Yahoo;Human Resources;2890.9
+55285;Anjolie K. Vance;25;Macromedia;Customer Relations;1374.01
+61076;Ocean W. Waller;56;Adobe;Asset Management;6588.2
+66366;Jordan Q. Delaney;52;Yahoo;Legal Department;9003.2
+26934;Illiana O. Bonner;55;Macromedia;Customer Relations;6257.93
+39269;Jared I. Boyle;57;Google;Legal Department;3931.25
+19842;Iliana O. Golden;58;Apple Systems;Payroll;3408.52
+41547;Wallace E. Sharp;19;Google;Advertising;8697.36
+90887;Adara L. Callahan;55;Altavista;Sales and Marketing;3657.14
+98748;Troy X. Juarez;27;Altavista;Tech Support;1350.87
+3375;Irene V. Winters;32;Cakewalk;Sales and Marketing;6165.85
+86787;Zeus V. Mccarthy;18;Microsoft;Tech Support;6019.36
+11517;Sydnee E. Fuller;26;Lycos;Advertising;6681.74
+42551;Maisie Q. Dixon;55;Google;Finances;8849.49
+1101;Rahim T. Watson;70;Yahoo;Customer Service;5023.87
+61277;Harper X. Parsons;27;Sibelius;Research and Development;8547.65
+58378;Jennifer P. Fischer;67;Yahoo;Human Resources;5206.53
+59594;Fiona X. Avila;70;Chami;Quality Assurance;7873.81
+78558;Wesley U. Hurley;50;Lycos;Customer Relations;7258.54
+84733;Ginger H. Jordan;30;Lycos;Research and Development;9456.46
+15374;Dominic L. Robles;58;Lycos;Research and Development;5355.62
+75899;Jin H. Frye;27;Apple Systems;Asset Management;9329.98
+35391;Kiayada R. Washington;70;Lavasoft;Public Relations;2651.73
+13198;Ferdinand S. Blankenship;59;Macromedia;Public Relations;1589.37
+61769;Macy S. Herring;35;Yahoo;Research and Development;4044.24
+89350;Abbot U. Newman;35;Apple Systems;Human Resources;5322.81
+76788;Skyler X. Collins;33;Altavista;Human Resources;4576.73
+10036;Paki U. Castillo;42;Apple Systems;Quality Assurance;9426.56
+33816;Ian H. Adams;48;Chami;Sales and Marketing;2409.03
+76423;Kaden W. Potts;52;Cakewalk;Payroll;6258.28
+70144;Summer L. Walton;55;Adobe;Legal Department;5770.24
+52274;Ima X. Lott;70;Yahoo;Customer Relations;6320.03
+57083;Thomas L. Carlson;34;Sibelius;Sales and Marketing;5497.58
+94358;Marvin K. Fuentes;61;Cakewalk;Customer Service;3588.87
+67741;Curran U. York;39;Altavista;Payroll;8726.39
+10673;Lyle V. Malone;49;Adobe;Payroll;4050.96
+74345;Meredith O. Estrada;30;Altavista;Public Relations;6077.68
+47789;Caldwell D. Swanson;33;Sibelius;Public Relations;4812.56
+87618;Dennis T. Casey;35;Sibelius;Quality Assurance;2998.93
+37408;Amelia C. Guerra;40;Lavasoft;Sales and Marketing;7425.66
+65036;Kiara L. Graves;51;Yahoo;Customer Service;9381.28
+45102;Justin A. Wilkins;51;Microsoft;Legal Department;1503.91
+10150;Garth U. Rocha;31;Apple Systems;Tech Support;1762.12
+4677;Rana H. Shepherd;54;Chami;Quality Assurance;1137.51
+49449;Gray J. Sharpe;64;Chami;Media Relations;5507.55
+33758;Ralph T. Short;62;Chami;Media Relations;8622.3
+914;Jessamine L. Dean;69;Adobe;Finances;6181.2
+21145;Berk U. Suarez;52;Cakewalk;Media Relations;5497.33
+37125;Shafira G. Chen;47;Google;Research and Development;5941.38
+56571;Harlan Z. Hull;31;Finale;Human Resources;8766.41
+18152;Aileen W. Gonzalez;69;Cakewalk;Accounting;9503.37
+51056;Hammett U. Reyes;69;Cakewalk;Legal Department;6494.48
+29401;Brianna O. Weeks;32;Microsoft;Human Resources;4384.36
+29312;Lillian Q. Hendrix;55;Chami;Payroll;9888.16
+78220;James P. Bryan;66;Macromedia;Customer Relations;6914.78
+55230;Aladdin K. Savage;61;Altavista;Finances;1662.19
+28458;Hasad H. Weeks;38;Sibelius;Legal Department;1297.35
+16031;Baxter X. Manning;37;Google;Sales and Marketing;3873.2
+2336;Hu V. Hopper;45;Altavista;Finances;7867.7
+90327;Brent W. Crosby;49;Altavista;Sales and Marketing;6776.11
+6155;Hakeem E. Nelson;41;Apple Systems;Legal Department;2549.78
+26780;Knox A. Collins;70;Sibelius;Media Relations;2811.59
+78109;Lydia W. Nelson;57;Google;Accounting;4045.87
+17397;Rajah J. Parker;46;Adobe;Legal Department;9616.27
+4867;Peter Z. Monroe;24;Apple Systems;Advertising;3547.11
+35503;Sophia Q. Mcdowell;24;Chami;Asset Management;3011.31
+29763;Rhonda R. Little;39;Sibelius;Human Resources;3653.58
+48442;Xyla E. Kemp;66;Chami;Customer Service;9457.87
+1600;Cadman P. Flynn;65;Altavista;Customer Relations;5917.67
+17870;Aretha L. Fowler;33;Chami;Research and Development;6209.66
+75417;Clarke G. Hernandez;64;Chami;Quality Assurance;1980.05
+95275;Indigo Z. Stephenson;65;Apple Systems;Human Resources;6835.45
+84508;Lance O. Pennington;21;Lycos;Sales and Marketing;6804.33
+12958;Jessica A. Juarez;24;Google;Payroll;2648.21
+73202;Bethany U. Mueller;41;Altavista;Quality Assurance;7802.12
+85294;Althea G. Weaver;67;Yahoo;Legal Department;5950.69
+68292;April C. Burns;26;Lavasoft;Public Relations;9952.58
+27913;Paki W. Fisher;26;Macromedia;Quality Assurance;1636.74
+1578;Herrod O. Kim;39;Finale;Finances;5953.98
+46071;Travis A. Pope;59;Macromedia;Research and Development;5303.53
+48151;Shaeleigh D. Todd;42;Altavista;Finances;8531.36
+84185;Gretchen E. Ross;69;Borland;Customer Relations;9142.88
+12247;Cara R. Abbott;43;Adobe;Accounting;1571.15
+8305;Quyn X. Vargas;35;Microsoft;Customer Service;4543.48
+30488;Mira G. Weaver;42;Cakewalk;Accounting;2836.94
+42181;Mona E. Lawson;65;Finale;Accounting;8601.23
+71436;Xandra R. Hopper;36;Borland;Human Resources;8326.13
+66345;Quentin D. Albert;36;Yahoo;Public Relations;3726.46
+57625;Zena G. Joyner;35;Lycos;Human Resources;4496.08
+70743;Cara T. Camacho;52;Sibelius;Customer Relations;5819.79
+27093;Melissa M. Leon;49;Chami;Legal Department;8664.51
+46475;Kennan A. Holloway;69;Lycos;Customer Relations;6004.13
+74762;Merritt T. Richard;43;Chami;Research and Development;6512.12
+50714;Blake I. Hancock;52;Apple Systems;Public Relations;2258.6
+97369;Avram C. Odom;64;Finale;Customer Relations;4037.23
+6993;Uma B. York;37;Borland;Finances;4722.21
+41636;Sade R. Cash;45;Chami;Customer Relations;8097.21
+56947;Melanie E. English;47;Sibelius;Public Relations;7615.01
+45735;Blake R. Valentine;31;Adobe;Customer Relations;6850.56
+25803;Rebekah L. Brady;52;Google;Advertising;4727.91
+70772;Audrey Z. Williams;43;Microsoft;Public Relations;1876.15
+97778;Kieran N. Ortega;19;Macromedia;Public Relations;4697.37
+65871;Amir C. Kelly;28;Finale;Finances;8424.13
+82276;Amela T. Phillips;64;Google;Payroll;5227.56
+42557;Jonah X. Cain;68;Adobe;Finances;7419.39
+13709;Desirae H. Travis;49;Sibelius;Asset Management;5597.32
+43135;Kelly I. Munoz;26;Altavista;Finances;1016.75
+38257;Leandra K. Phelps;21;Lycos;Tech Support;4668.15
+51594;Erin A. Perkins;61;Sibelius;Quality Assurance;5173.07
+40342;Eliana F. Dorsey;21;Cakewalk;Customer Relations;5570.04
+1522;Jesse U. Grimes;46;Apple Systems;Customer Relations;1856.64
+18328;Halla N. Barry;44;Chami;Quality Assurance;6868.52
+52894;Amy X. Mcneil;23;Altavista;Legal Department;9116.09
+2603;Daphne K. Benjamin;50;Altavista;Customer Relations;4394.82
+41479;Lydia D. Best;57;Macromedia;Human Resources;7180.34
+55201;Vielka D. Paul;36;Microsoft;Customer Relations;2397.04
+33401;Donovan A. Ware;32;Apple Systems;Customer Relations;4908.07
+13247;Chloe C. Osborne;67;Cakewalk;Human Resources;8900.94
+26530;Graiden X. Madden;20;Apple Systems;Asset Management;5636.73
+43330;Chandler P. Richard;27;Chami;Customer Service;6567.27
+34192;Lawrence Z. Kirby;18;Chami;Asset Management;7610.31
+79155;Nasim K. Gates;37;Chami;Public Relations;8970.3
+78090;Melissa W. Duffy;44;Lycos;Media Relations;1887.77
+43892;Amos L. Ellis;63;Microsoft;Research and Development;4739.68
+50183;Laurel A. Owens;67;Sibelius;Research and Development;5418.71
+42987;Christopher G. Burnett;43;Lycos;Research and Development;2403.89
+25811;Dustin J. Larsen;67;Macromedia;Public Relations;8773.33
+50697;Simon U. Heath;43;Google;Media Relations;8932.49
+90118;Madonna O. Booth;54;Microsoft;Finances;5679.28
+91668;Lael E. Dixon;29;Borland;Legal Department;2487.87
+39302;Brianna R. Holloway;24;Macromedia;Finances;4375.3
+42423;Channing D. Finley;60;Apple Systems;Payroll;1064.09
+1055;Xandra W. Alford;43;Google;Human Resources;9816.6
+77910;Price W. Cantrell;45;Macromedia;Payroll;1189.92
+39114;Troy K. Griffith;22;Lavasoft;Quality Assurance;6763.06
+558;Jarrod L. Allison;69;Altavista;Customer Relations;3102.05
+44265;Elvis S. Davis;19;Macromedia;Accounting;5556.71
+64753;Oliver O. Cortez;21;Lycos;Legal Department;5009.57
+97973;Hedley G. Blake;19;Macromedia;Media Relations;5332.93
+65559;Allistair B. Glass;53;Lycos;Asset Management;2444.44
+94756;Lana I. Stark;27;Microsoft;Customer Relations;5560.28
+86175;Keane D. Pena;27;Macromedia;Human Resources;9608.05
+72938;Hannah C. Tyson;47;Macromedia;Legal Department;3839.16
+92583;Shaeleigh E. Durham;62;Adobe;Legal Department;9097.09
+50292;Keith G. Wilkinson;55;Lavasoft;Media Relations;6671
+6065;Stone G. Harrison;27;Cakewalk;Research and Development;8916.91
+92582;Zena Y. Page;58;Lycos;Research and Development;9474.9
+7964;Addison N. Munoz;48;Google;Human Resources;9905.06
+82814;Bevis V. Franco;41;Microsoft;Quality Assurance;5756.09
+23495;Montana O. Heath;32;Macromedia;Finances;6272.19
+15211;Sylvia X. Cline;63;Apple Systems;Legal Department;4748.41
+66297;Lisandra K. Blevins;26;Adobe;Sales and Marketing;2427.83
+77223;Joshua G. Mcknight;22;Macromedia;Media Relations;8649.45
+15831;Cora G. Gutierrez;29;Yahoo;Accounting;3808.34
+80884;Nolan R. Simon;24;Yahoo;Public Relations;7909.88
+17564;Laura X. Hoffman;20;Chami;Finances;6976.4
+41884;Emery Y. Franklin;44;Borland;Public Relations;4862.33
+75036;McKenzie S. Dodson;45;Microsoft;Tech Support;9344.93
+92675;Lacy Z. Serrano;46;Finale;Legal Department;5102.26
+22396;Kessie I. Obrien;32;Lycos;Research and Development;3338.74
+13783;Abdul F. West;40;Google;Human Resources;1478.51
+11686;Gabriel P. Peck;70;Adobe;Asset Management;1998.77
+4935;Emery L. Moody;49;Microsoft;Tech Support;4867.97
+7761;Hall C. Knight;56;Altavista;Tech Support;1461.07
+66552;Sean N. Sargent;67;Google;Legal Department;3264.13
+21278;Darryl B. Farley;69;Finale;Research and Development;3247.77
+98999;Sonya W. Kim;56;Lavasoft;Media Relations;8451.72
+34455;Autumn W. Chen;34;Lavasoft;Customer Service;3704.53
+75503;Bertha E. Perry;23;Cakewalk;Public Relations;4207.29
+21040;Jasmine W. Combs;42;Altavista;Customer Service;6791.52
+33673;Walter B. Barlow;58;Lavasoft;Advertising;3314.2
+440;Damian L. Aguilar;32;Lycos;Finances;5858.15
+45473;Avye G. Randolph;25;Lavasoft;Customer Service;1666.95
+97830;Taylor D. Malone;40;Cakewalk;Sales and Marketing;6735.65
+40396;Jaime V. Reed;33;Cakewalk;Accounting;6349.65
+42107;Abra N. Gibbs;25;Chami;Human Resources;1226.19
+58389;Hop X. Cooley;24;Cakewalk;Customer Relations;4084.15
+8734;Petra K. Richardson;67;Altavista;Payroll;8152.37
+38791;Olivia S. Peck;32;Cakewalk;Accounting;5014.76
+47260;Mia B. Griffith;19;Cakewalk;Customer Relations;2742.42
+46771;Colorado C. Howell;20;Microsoft;Legal Department;9928.09
+33843;Skyler X. Mueller;27;Yahoo;Public Relations;1817.37
+65651;Freya X. Gray;51;Altavista;Accounting;2860.47
+24014;Quyn N. Mcmillan;52;Altavista;Customer Relations;6805.91
+26003;Nathan F. Summers;28;Google;Public Relations;1737.25
+7545;Virginia Q. Holland;45;Yahoo;Accounting;6928.7
+11250;Zelda P. Lawrence;40;Lavasoft;Tech Support;7520.64
+587;Fletcher T. Hull;50;Finale;Tech Support;3572.27
+65360;Preston D. Wilkins;33;Microsoft;Customer Service;3783.9
+44488;Kennan S. Byers;47;Macromedia;Sales and Marketing;2151.08
+79702;James Y. Morrison;33;Sibelius;Customer Service;5128.77
+73705;Iona D. Bradford;54;Adobe;Research and Development;1161.02
+72185;Maisie O. Pierce;38;Altavista;Research and Development;6888.44
+40218;Silas B. Cooley;54;Altavista;Public Relations;6760.06
+36177;Baker G. Gates;68;Yahoo;Media Relations;3899.64
+38557;Maile I. Barnett;35;Macromedia;Asset Management;6239.25
+31684;Sharon L. Sullivan;67;Macromedia;Research and Development;8597.09
+64588;Amity C. Salinas;70;Lavasoft;Customer Relations;9613.75
+3444;Emmanuel D. Powell;51;Apple Systems;Customer Service;2298.88
+44112;Clarke G. Dickson;24;Microsoft;Payroll;8779.69
+98853;Christine N. Rodriquez;32;Microsoft;Legal Department;6851.74
+8454;Demetria R. Wiley;50;Yahoo;Accounting;3595.88
+99509;Aurelia C. Vaughn;20;Macromedia;Advertising;4410.31
+36414;Phoebe M. Stout;58;Finale;Quality Assurance;7606.78
+20782;Karly M. Armstrong;36;Finale;Public Relations;2015.39
+33710;Tobias V. Pace;66;Finale;Public Relations;4099.78
+12448;Jorden O. Santos;56;Altavista;Public Relations;6312.93
+75025;Wilma U. Lancaster;57;Cakewalk;Asset Management;5955.85
+10394;Mari B. Wiggins;37;Sibelius;Finances;3539
+21691;Francis O. Avery;30;Sibelius;Quality Assurance;6236.99
+40099;Cole D. Roach;47;Lycos;Advertising;7931.64
+68300;Brynn N. Patton;37;Microsoft;Asset Management;3919.45
+67601;Abigail P. Dyer;61;Apple Systems;Media Relations;4775.19
+81820;Solomon K. Rosales;61;Yahoo;Asset Management;3409.91
+88010;Hanae R. Henson;23;Adobe;Sales and Marketing;2954.52
+76382;Patrick U. Graham;20;Adobe;Finances;1071.77
+84641;Justine C. Dodson;27;Borland;Quality Assurance;7169.71
+60926;Ann E. Bray;58;Apple Systems;Sales and Marketing;5069.03
+21091;Patricia F. Bolton;31;Sibelius;Public Relations;9272.97
+38060;Channing B. Huber;34;Yahoo;Research and Development;4481.86
+3048;Seth L. Singleton;26;Macromedia;Tech Support;3014.29
+26664;Sheila M. Hardin;25;Sibelius;Media Relations;8796.05
+47658;Julie A. Oliver;45;Macromedia;Accounting;4164.49
+7764;Todd E. Vega;47;Microsoft;Tech Support;1137.76
+80094;Maia N. Leblanc;42;Altavista;Human Resources;3652.74
+34341;Odette R. Gibson;26;Microsoft;Customer Relations;3759.59
+76380;Leah P. Howell;30;Lavasoft;Quality Assurance;5027.92
+37199;Beau J. Conner;54;Microsoft;Public Relations;8516.49
+69568;Fredericka I. Gonzales;45;Sibelius;Tech Support;9588.11
+85595;Nolan W. Joyce;43;Macromedia;Tech Support;3608.96
+95739;Lani U. Owens;54;Macromedia;Media Relations;9807.35
+58734;Wesley S. Stanton;25;Sibelius;Finances;2613.39
+76301;Gage L. Monroe;21;Sibelius;Public Relations;3957.56
+85748;Hope O. Beard;20;Adobe;Advertising;4115.48
+43470;Aphrodite P. Merrill;56;Finale;Customer Service;4116.15
+4585;Laurel U. Leonard;42;Altavista;Quality Assurance;7153.22
+36927;Mia C. Molina;23;Macromedia;Sales and Marketing;3089.09
+71051;Wynter S. Wolf;48;Apple Systems;Public Relations;2482.48
+57165;Winter H. Garrison;23;Yahoo;Finances;6309.72
+37070;Quinn G. Bean;67;Cakewalk;Research and Development;2654.24
+35562;Melissa R. Hancock;44;Altavista;Tech Support;1668.46
+38977;Aiko W. Hart;58;Microsoft;Customer Relations;4781.2
+29073;Raphael H. Taylor;48;Adobe;Asset Management;9881.26
+30841;Deanna Z. Lara;69;Adobe;Research and Development;5623.84
+45832;Macon E. Rowe;62;Apple Systems;Accounting;3648.85
+4526;Dorian A. Wolf;55;Apple Systems;Asset Management;6554.27
+71958;Susan U. Raymond;34;Lavasoft;Accounting;3753.22
+31400;Darius Y. Mosley;68;Adobe;Asset Management;4738.5
+63323;Rhoda D. Kelly;52;Apple Systems;Customer Service;8230.72
+29615;Cally I. Houston;66;Lavasoft;Public Relations;8757.29
+39276;Omar M. Cervantes;66;Adobe;Media Relations;6554.08
+17950;Xavier L. Gill;68;Lavasoft;Media Relations;9911.36
+86041;Neil E. Myers;61;Lycos;Payroll;6488.54
+73884;Brody P. Beach;70;Lycos;Media Relations;5589.23
+82823;Clinton W. Hebert;52;Lycos;Human Resources;4075.86
+32239;Dante U. Hayden;39;Finale;Payroll;9215.42
+87646;Cassandra Y. Delgado;18;Macromedia;Quality Assurance;9152.45
+32133;Pamela S. Rojas;19;Macromedia;Sales and Marketing;2395.23
+67330;Brynn B. Brennan;53;Borland;Advertising;1233.45
+5321;Anika M. Hart;70;Altavista;Media Relations;2922.58
+25434;Avram C. Schmidt;46;Cakewalk;Customer Relations;3148.19
+63331;Bryar X. Odom;56;Microsoft;Tech Support;2532.84
+71712;Isabelle G. Hoover;27;Cakewalk;Media Relations;3339.29
+95905;Upton E. Boone;60;Finale;Quality Assurance;4461.83
+6976;Mari K. Roman;66;Apple Systems;Media Relations;3849.84
+95157;India N. Mcfadden;19;Lycos;Asset Management;5668.68
+30314;Mannix D. Johns;32;Chami;Quality Assurance;8537.25
+82742;Phyllis G. Pate;25;Google;Media Relations;1215.35
+29261;Omar G. Carr;18;Cakewalk;Public Relations;7992
+56778;Susan I. Gallagher;56;Adobe;Tech Support;4950.12
+19104;Melinda C. Shepherd;46;Chami;Quality Assurance;5293.67
+85934;Hashim S. Bernard;42;Adobe;Media Relations;7731.99
+50947;Kylynn H. Patel;54;Google;Customer Relations;2555.39
+34540;Garrison L. Roberson;18;Apple Systems;Sales and Marketing;3669.96
+58068;Dillon P. Guerra;66;Adobe;Human Resources;6901.29
+39505;Jillian W. Dean;41;Altavista;Sales and Marketing;8902.31
+69396;Yvette J. Hooper;18;Macromedia;Research and Development;2505.08
+16643;Garrison B. Osborn;69;Cakewalk;Accounting;4281.06
+25652;Isadora J. Clemons;20;Finale;Tech Support;7958
+89023;Cedric U. Rosales;46;Cakewalk;Finances;8952.93
+60385;Yeo P. Preston;37;Apple Systems;Customer Relations;5204.17
+6541;Nell Z. Parsons;60;Yahoo;Customer Service;2241.88
+97015;Kenneth S. Leach;43;Cakewalk;Media Relations;4102.3
+22151;Raymond Z. Jenkins;67;Chami;Media Relations;2598.97
+63224;Laurel Q. Morgan;38;Google;Public Relations;2588.63
+65198;Benjamin W. James;21;Lycos;Media Relations;3796.3
+87615;Hashim O. Pennington;24;Apple Systems;Customer Relations;7855.37
+79475;Christopher X. Michael;52;Macromedia;Accounting;3296.23
+77161;Hannah I. Saunders;31;Chami;Finances;9546.85
+77800;Alexander Q. Lindsay;64;Google;Asset Management;6301.18
+33595;Taylor A. Blanchard;56;Microsoft;Media Relations;5458.32
+29790;Marny V. Crawford;36;Microsoft;Tech Support;7503.25
+17387;Cathleen W. Diaz;43;Cakewalk;Legal Department;5469.95
+73871;Vernon A. Patrick;64;Borland;Quality Assurance;3960.12
+70315;Ramona P. Suarez;42;Yahoo;Tech Support;6723.42
+34551;Hermione G. Robles;26;Cakewalk;Tech Support;1573.5
+15414;Laura Q. Odonnell;49;Altavista;Public Relations;5319.48
+90110;Lawrence C. Parrish;30;Google;Customer Relations;6907.18
+51825;Demetria X. Forbes;46;Microsoft;Payroll;5725.71
+83510;Eagan M. Perkins;60;Lycos;Asset Management;1133.3
+95915;Amela Y. Davenport;55;Chami;Research and Development;4397.8
+18360;Beverly G. Merrill;20;Lavasoft;Research and Development;1875.91
+69267;Evan R. Craig;23;Yahoo;Advertising;6344.93
+35712;Hiroko N. Kerr;45;Google;Accounting;2464.11
+82148;Jennifer Q. Castro;27;Macromedia;Research and Development;5536.47
+66109;Arthur Q. Mack;29;Yahoo;Quality Assurance;9859.95
+6303;Leo L. Boyle;54;Borland;Customer Relations;2246.35
+58437;Alexis K. Oneal;46;Adobe;Human Resources;8661.46
+9226;Raja K. York;23;Yahoo;Asset Management;8326.27
+30370;Derek T. Duke;58;Microsoft;Customer Service;1029.13
+78116;Mara I. Franklin;23;Borland;Customer Relations;6844.17
+32053;Kyla T. Gordon;31;Microsoft;Research and Development;1297.93
+13981;Tatum V. Dodson;32;Adobe;Legal Department;8307.8
+45366;Dacey I. Pope;63;Lavasoft;Customer Service;5043.16
+95601;Amethyst N. Booth;50;Altavista;Media Relations;7215.6
+88006;Germaine Q. Hammond;58;Lavasoft;Quality Assurance;5073.9
+83467;Kasper G. Roberson;53;Altavista;Human Resources;8569.57
+87497;Cecilia B. Cameron;22;Sibelius;Quality Assurance;7958.65
+59606;Alfonso M. Morrison;25;Borland;Research and Development;5831.73
+96457;Ainsley I. Merritt;20;Cakewalk;Payroll;3395.15
+15553;Ariel W. Mcgowan;48;Chami;Tech Support;8465.74
+59015;Christen T. Acosta;30;Chami;Sales and Marketing;2853.19
+29305;Yeo J. Miller;66;Yahoo;Research and Development;6296.09
+96280;Patrick S. Clements;44;Altavista;Media Relations;2995.77
+18242;Merrill K. Mckinney;34;Finale;Quality Assurance;7198.19
+19962;Fritz U. Glover;34;Finale;Public Relations;4691.23
+76736;Rinah Y. Edwards;41;Chami;Advertising;2801.48
+80511;Jarrod T. Finley;39;Altavista;Tech Support;4694.95
+37039;Jena C. Graves;18;Chami;Payroll;6936.21
+90001;Naida N. Haney;68;Yahoo;Research and Development;8828.89
+14091;Tanek W. Conley;55;Apple Systems;Finances;5230.15
+62268;Catherine O. Townsend;52;Borland;Human Resources;5648.79
+49204;Willow K. Chandler;55;Apple Systems;Human Resources;1206.58
+19432;Addison V. Wood;39;Chami;Advertising;1949.38
+70048;Steven S. Jarvis;31;Google;Payroll;7189.25
+7584;Savannah F. Whitney;61;Adobe;Sales and Marketing;9811.92
+29449;Iola L. Kelly;20;Finale;Customer Service;1939.44
+6509;Reuben B. Rollins;38;Yahoo;Research and Development;3586.81
+42978;Kenyon O. Hudson;28;Adobe;Research and Development;7531.41
+15408;Thaddeus M. Fry;62;Macromedia;Tech Support;6216.38
+6719;Unity V. Noel;69;Finale;Research and Development;3460.22
+92836;Octavius G. Valencia;55;Borland;Media Relations;8739.99
+87633;Harding E. Preston;36;Finale;Sales and Marketing;9328.3
+75333;Minerva X. Casey;22;Google;Tech Support;7570.55
+11889;Uriah M. Mayer;39;Apple Systems;Quality Assurance;8937.82
+42048;Farrah K. Hess;44;Microsoft;Quality Assurance;2883.81
+17024;Jackson K. Sharpe;47;Sibelius;Human Resources;2237.01
+11842;Jameson I. Key;62;Apple Systems;Advertising;5390.25
+58950;Mariko Q. Barron;30;Cakewalk;Human Resources;2012.64
+30084;Claire W. Petersen;25;Yahoo;Accounting;9820.9
+92158;Chloe L. Wise;21;Chami;Public Relations;7411.66
+97314;Colt S. Chandler;27;Lycos;Legal Department;5127.44
+56759;Wynne M. Benjamin;23;Adobe;Public Relations;8223.29
+40971;Georgia X. Silva;31;Macromedia;Legal Department;6966.14
+61257;Alfonso B. Lopez;51;Cakewalk;Public Relations;4295.42
+66065;Arthur O. Shaffer;52;Cakewalk;Asset Management;2080.6
+74651;Hadley T. Hutchinson;34;Sibelius;Research and Development;5373.94
+80368;Gregory E. Goodwin;22;Apple Systems;Accounting;9549.98
+54284;Macaulay R. Casey;59;Cakewalk;Media Relations;5821.01
+81929;Isabelle B. Good;24;Google;Tech Support;4894.88
+51341;Ezra A. Melendez;64;Macromedia;Customer Service;7113.24
+59028;Kylan X. Robertson;47;Lavasoft;Quality Assurance;1829.88
+33018;Amelia Q. Hernandez;43;Lycos;Customer Service;4472.78
+34006;Bo M. Hartman;45;Google;Media Relations;9286.53
+10545;Anne C. Fitzpatrick;68;Microsoft;Legal Department;3325.48
+44782;Stewart K. Ward;56;Microsoft;Research and Development;2256.28
+36006;Unity V. Mcpherson;36;Chami;Media Relations;5607.89
+35517;Audrey S. Browning;58;Yahoo;Human Resources;9460.71
+55768;Sawyer A. Dotson;70;Chami;Finances;6278.9
+48902;Aristotle E. Meadows;57;Finale;Accounting;9490.18
+45219;Kennedy U. Quinn;46;Lycos;Tech Support;2262.38
+61335;Nerea N. Stafford;50;Google;Sales and Marketing;8973.13
+46795;Channing G. Burke;35;Finale;Tech Support;7936.87
+21209;Neve V. Mcknight;55;Altavista;Media Relations;8731.5
+91213;Yeo V. Cobb;43;Finale;Research and Development;3597.33
+71296;Keegan X. Crawford;67;Adobe;Asset Management;2191.81
+43570;Sara H. Nolan;58;Google;Tech Support;3527.74
+36537;Aaron L. Parrish;64;Altavista;Research and Development;3307.65
+15749;Judah B. Hutchinson;60;Borland;Tech Support;8780.87
+57728;Stacy P. Shannon;25;Google;Asset Management;4965.24
+28075;Illana U. Bowers;20;Macromedia;Accounting;7966.27
+46592;Pascale Q. Berger;67;Lavasoft;Quality Assurance;3115.84
+26772;Sydney U. Perkins;29;Macromedia;Advertising;7569.99
+42009;Nomlanga E. Williams;70;Macromedia;Customer Service;5501.45
+56469;Martina H. Lowe;50;Yahoo;Public Relations;4328.42
+44015;Sydnee Z. Solomon;53;Yahoo;Asset Management;6196.23
+14072;Cassady F. Stewart;27;Adobe;Quality Assurance;3278.61
+89613;Genevieve U. Glover;64;Lavasoft;Payroll;9865.87
+42782;Hilary T. Hensley;46;Google;Asset Management;4274.37
+32989;Mohammad E. Edwards;51;Finale;Finances;4190.72
+25004;Harriet T. Burke;36;Lavasoft;Asset Management;3513.16
+65304;Conan D. Reilly;63;Microsoft;Accounting;6993.25
+10955;Walker D. Hurley;48;Altavista;Tech Support;9245.03
+91438;Veda O. Montoya;19;Microsoft;Advertising;8764.91
+98631;Elton A. Day;61;Yahoo;Quality Assurance;5209.22
+228;Jael F. Carey;63;Cakewalk;Legal Department;8190.59
+65425;Edward M. Cox;64;Macromedia;Asset Management;6968.34
+94522;Oleg H. Ferguson;70;Adobe;Advertising;7211.35
+46121;Brenna Q. Curry;63;Microsoft;Legal Department;1442.66
+61154;Erin Z. Odonnell;54;Macromedia;Legal Department;5076.52
+1146;Chaney A. Mccall;51;Macromedia;Quality Assurance;2354.26
+56703;Selma F. Park;45;Finale;Research and Development;2084.06
+6863;Basil D. Watson;23;Google;Quality Assurance;5874.39
+24611;Elton N. Frost;36;Lavasoft;Media Relations;9194.9
+40493;Lillian P. Avila;53;Altavista;Research and Development;9403.32
+89620;Clio Q. Payne;52;Yahoo;Quality Assurance;9883.85
+70600;Jael F. Mcdonald;70;Cakewalk;Accounting;3486.77
+398;Hu G. Mcintyre;24;Altavista;Payroll;3916.28
+72659;Nero N. Mills;52;Google;Research and Development;1648.95
+81115;Darrel Z. Mccarty;35;Finale;Advertising;8510.01
+15542;Cade V. Mullen;44;Adobe;Customer Relations;7146.52
+13173;Piper F. Colon;59;Lavasoft;Customer Service;1567.61
+33859;Ignatius D. Powell;23;Sibelius;Customer Relations;7576.68
+8737;Branden B. Strickland;40;Yahoo;Research and Development;8612.96
+39423;Sigourney E. Morales;27;Microsoft;Quality Assurance;4510.9
+46426;Beau L. Donovan;65;Microsoft;Legal Department;9372.01
+51601;Quincy T. Hudson;63;Yahoo;Media Relations;7059.07
+4837;Germane U. Joyner;46;Finale;Asset Management;3447.58
+99782;Paki A. Gray;31;Google;Sales and Marketing;1000.75
+88669;Lydia Y. Robles;32;Borland;Public Relations;9555.33
+95831;Yuri Y. Riggs;66;Lavasoft;Accounting;2527.93
+41780;Lavinia U. Foster;61;Lavasoft;Advertising;9368.88
+95301;Piper V. Weaver;56;Lycos;Payroll;6216.56
+31190;Allegra Z. Carney;22;Lycos;Research and Development;6469.03
+18081;Plato B. Moody;43;Altavista;Accounting;1145.74
+14390;Patience A. Vaughn;70;Finale;Sales and Marketing;1207.19
+63112;Oren B. Good;38;Finale;Research and Development;5876.11
+3881;Tallulah R. Pittman;38;Google;Tech Support;5197.14
+11959;Salvador N. Baird;58;Lycos;Advertising;2683.92
+6454;Lacey O. Mendez;66;Apple Systems;Media Relations;1396.67
+43152;Noble J. Wilkins;43;Cakewalk;Human Resources;1865.8
+73188;Cassandra L. Langley;54;Yahoo;Quality Assurance;4418.24
+54491;Garth V. Richmond;61;Microsoft;Asset Management;9389.6
+41372;Elijah J. Whitley;68;Macromedia;Public Relations;8284.19
+63146;Cade F. Silva;26;Macromedia;Research and Development;8905.62
+99236;Larissa K. Parker;54;Macromedia;Customer Relations;7021.83
+39277;Dillon H. Guerrero;58;Borland;Advertising;5435.68
+93001;Rhona O. Cline;53;Google;Sales and Marketing;8552.92
+9808;Destiny C. Salinas;57;Yahoo;Media Relations;4925.49
+21792;Amery R. Terrell;45;Microsoft;Quality Assurance;8680.41
+99856;Cleo F. Figueroa;42;Sibelius;Customer Service;2495.68
+97740;Autumn F. Horn;62;Chami;Public Relations;7754.44
+43495;Austin A. Griffin;27;Sibelius;Payroll;4297.72
+97858;Charde A. York;44;Sibelius;Research and Development;5133.46
+91832;Shaine M. Love;18;Microsoft;Media Relations;7904.92
+30816;Cameran T. Perez;67;Apple Systems;Public Relations;1093.97
+7567;Brenna I. Green;40;Finale;Sales and Marketing;4003.2
+69228;Harding V. Banks;39;Google;Quality Assurance;7213.05
+51009;Sydnee V. Whitehead;56;Lavasoft;Human Resources;7771.02
+23838;Samantha X. Spears;63;Lycos;Research and Development;8687.21
+3404;Howard W. Fischer;60;Cakewalk;Quality Assurance;6884.88
+59761;Davis S. Nichols;24;Finale;Accounting;6237.71
+64677;Simone W. Reyes;42;Lavasoft;Accounting;4674.02
+13890;Quyn Q. Fields;45;Lycos;Human Resources;4640.65
+30666;Merrill M. Johns;35;Finale;Payroll;2924.75
+33860;Keegan T. Gonzales;69;Sibelius;Accounting;8914.81
+95621;Destiny N. Frederick;48;Chami;Accounting;2512.98
+49169;Adara F. Powers;23;Altavista;Research and Development;5737.15
+74433;Ray G. Rose;46;Lavasoft;Customer Service;3451.5
+73201;Yolanda F. Bradford;34;Yahoo;Advertising;8606.85
+33151;Ralph N. Travis;45;Borland;Payroll;3961.82
+45930;Gillian C. Cherry;28;Cakewalk;Tech Support;7858.82
+26705;Willa O. Nunez;49;Google;Customer Relations;8762.2
+72504;Joan Z. Nunez;24;Apple Systems;Customer Relations;1470.97
+58045;Emerald U. Golden;67;Cakewalk;Tech Support;3088
+28712;Vaughan Y. Phillips;34;Altavista;Legal Department;6526.53
+581;Shaine L. Reese;43;Sibelius;Finances;8880.68
+58406;Drake E. Stewart;22;Macromedia;Sales and Marketing;9959.16
+68204;Anne J. Payne;47;Cakewalk;Human Resources;3729.82
+73500;Wyatt D. Montoya;42;Sibelius;Media Relations;9136.76
+24960;Hall H. Powell;48;Microsoft;Tech Support;3192.42
+60540;Cameron B. Rojas;35;Lycos;Media Relations;2777.92
+11003;Shelby O. House;60;Sibelius;Tech Support;8831.11
+75467;Tallulah Y. Conley;54;Lavasoft;Research and Development;9154.53
+88563;Eric G. Patel;23;Yahoo;Human Resources;9827.91
+89008;Keith Y. Figueroa;23;Sibelius;Customer Service;8840.52
+40036;Shelley J. Patterson;50;Macromedia;Research and Development;5320.97
+52061;Jasper T. Hartman;27;Sibelius;Human Resources;4737.89
+60707;Vladimir B. Brown;39;Finale;Finances;6289.37
+95097;Nathan K. Campbell;43;Cakewalk;Finances;1836.11
+91610;Iliana F. Page;61;Adobe;Quality Assurance;2848.65
+64614;Graham B. Vazquez;69;Finale;Payroll;1841.46
+388;Hadassah V. Byrd;66;Chami;Customer Service;3031.41
+31140;Chiquita X. Hays;61;Macromedia;Customer Relations;9769.43
+2185;Meghan J. Blackwell;65;Lycos;Sales and Marketing;5499.31
+23199;Lester A. Goodman;37;Altavista;Payroll;2212.71
+94534;Byron T. Dorsey;59;Chami;Customer Relations;3809.92
+46703;Amir Q. Yates;22;Yahoo;Legal Department;2842.68
+75951;Liberty U. Barlow;41;Finale;Legal Department;2315.64
+6366;Ivana K. Jackson;63;Sibelius;Research and Development;3894.9
+6480;Martena A. Langley;59;Lycos;Human Resources;2455.95
+78418;Jasper F. Benson;68;Altavista;Accounting;3163.47
+96707;Amity X. Best;45;Chami;Asset Management;4473.69
+44399;Noel T. Decker;53;Yahoo;Finances;4785.37
+80359;Hadley E. Hyde;62;Borland;Customer Service;6413.07
+88675;Flavia T. Ballard;63;Sibelius;Customer Relations;8686.21
+48741;Shad Q. Rivers;53;Yahoo;Finances;1516.09
+40232;Jack L. Blanchard;28;Macromedia;Research and Development;3217.52
+80012;Amery C. Talley;60;Microsoft;Accounting;9299.84
+32901;Quyn A. Kirby;34;Apple Systems;Customer Relations;7055.7
+50167;Rooney B. Carlson;18;Borland;Accounting;3594.95
+86800;Nola U. Stark;36;Apple Systems;Sales and Marketing;7791.07
+91452;Hayden L. Walker;67;Google;Customer Relations;9761.31
+34139;Jordan C. Leach;65;Microsoft;Research and Development;3526.4
+82753;Whitney S. Garcia;36;Adobe;Asset Management;4728.87
+98338;Edward B. Franco;48;Chami;Payroll;3306.17
+18922;Brandon J. Farley;54;Macromedia;Legal Department;7584.22
+80363;Isabella G. Donaldson;61;Lycos;Finances;9519.94
+41493;Lillith F. Kaufman;32;Chami;Advertising;2235.3
+66475;Amal H. Mckee;40;Cakewalk;Human Resources;2658.85
+50532;Holmes K. Burns;69;Google;Customer Service;3826.16
+59992;Kerry J. Bradford;32;Lavasoft;Quality Assurance;4000.58
+66455;Rose S. Bridges;65;Cakewalk;Advertising;3792.83
+86568;Samuel L. Church;69;Lavasoft;Asset Management;5741.3
+3624;Taylor D. Perez;62;Apple Systems;Customer Service;6965.16
+96178;Harlan D. Boyle;61;Finale;Finances;7793.06
+63028;Teegan V. Vega;57;Microsoft;Public Relations;9506.35
+48312;Leigh F. Henson;53;Google;Media Relations;8280.94
+47571;Kellie R. Mccarty;40;Borland;Accounting;4526.55
+57470;Drake A. Sykes;42;Lavasoft;Customer Service;5230.02
+41271;Summer L. Castillo;27;Borland;Research and Development;9196.17
+69499;April P. Gonzales;46;Cakewalk;Finances;9894.87
+72411;Lance S. Durham;47;Apple Systems;Customer Relations;4025.5
+42128;Lareina S. Nichols;48;Altavista;Public Relations;9498.61
+14124;Magee S. Cantrell;42;Apple Systems;Public Relations;3885.38
+62279;Phillip L. Shaffer;43;Borland;Sales and Marketing;9384.14
+37677;Dexter D. Mays;18;Yahoo;Human Resources;5904.53
+5403;Russell B. Mejia;20;Macromedia;Asset Management;7017.09
+88575;Sylvia H. Bray;21;Finale;Sales and Marketing;7598.32
+73511;Zephr J. Gray;62;Lavasoft;Advertising;3670.94
+36086;Kessie D. Rodgers;51;Microsoft;Media Relations;4662.71
+33845;Tashya V. Blackburn;64;Microsoft;Asset Management;3080.96
+57141;Sarah X. Hartman;34;Altavista;Customer Relations;7219.2
+79595;Barclay J. Franco;52;Macromedia;Quality Assurance;7241.18
+35920;Dai I. Underwood;57;Lavasoft;Finances;6066.33
+61669;Kyle X. Curry;52;Cakewalk;Research and Development;1133.61
+26242;Kyra O. Compton;40;Apple Systems;Research and Development;7024.68
+21289;Justin E. Russell;31;Altavista;Sales and Marketing;2160.76
+62321;Paula T. Holmes;21;Finale;Finances;6549.95
+90551;Jared G. Bean;52;Yahoo;Finances;5687.9
+83982;Chiquita J. Carlson;43;Finale;Sales and Marketing;8407.87
+10660;Steel K. Kelley;67;Microsoft;Advertising;7828.16
+95714;Yardley I. Mason;41;Altavista;Tech Support;1831.81
+43508;Joan Y. Landry;53;Microsoft;Research and Development;8705.09
+59585;Alice Z. Knight;48;Lycos;Tech Support;2004.36
+79929;Dante K. Bond;51;Adobe;Accounting;2671.02
+86166;Calvin W. Carter;40;Lavasoft;Payroll;4875.41
+73475;Hakeem G. Sampson;22;Lavasoft;Human Resources;4675.28
+55165;Melvin L. Callahan;64;Adobe;Tech Support;1112.92
+48487;Mikayla C. Koch;28;Apple Systems;Human Resources;3791.54
+36625;Haley C. Green;40;Chami;Public Relations;8652.32
+31146;Nero K. Graves;56;Adobe;Tech Support;1642.7
+89185;Candice O. Klein;20;Chami;Asset Management;9488.97
+19122;Melinda Y. Glass;35;Altavista;Payroll;8860.48
+89309;Tanya C. Maddox;49;Yahoo;Customer Service;5885.78
+59095;Uriel P. Hurley;35;Google;Tech Support;6879.63
+36275;Karleigh O. Villarreal;28;Altavista;Finances;6920.69
+75929;Abigail C. Yates;46;Cakewalk;Tech Support;8175.05
+75371;Kaden I. Hawkins;64;Chami;Advertising;6219.58
+68525;Basia G. Marsh;37;Apple Systems;Legal Department;1870.11
+61591;Ignacia F. Morris;35;Sibelius;Customer Relations;9970.32
+68749;Hyatt D. Neal;31;Lycos;Legal Department;5054.14
+1046;Paki J. Bond;39;Macromedia;Payroll;3443.77
+41532;Suki P. Parsons;40;Cakewalk;Finances;7072.78
+5189;Dominique R. Ward;54;Yahoo;Payroll;3305.14
+79604;Quail Q. Roberson;25;Yahoo;Asset Management;5794.22
+15813;Hayes C. Shepherd;50;Lavasoft;Sales and Marketing;8924.36
+80438;Melodie V. Vang;70;Apple Systems;Legal Department;1748.51
+80837;Tara G. Delaney;24;Borland;Payroll;1008.65
+10884;Herrod Z. England;42;Google;Legal Department;6633.73
+59247;Zena Q. Stanley;59;Lavasoft;Research and Development;8985.1
+62674;Channing L. Powell;50;Cakewalk;Payroll;9865.84
+73329;Seth O. Fleming;66;Lycos;Finances;4876.39
+60267;Adena G. Buckner;66;Macromedia;Finances;5811.06
+15209;Iona K. Burt;36;Macromedia;Tech Support;8354.62
+31434;Mark Y. Burton;42;Lycos;Quality Assurance;3604.55
+69671;Kendall C. Mccullough;24;Macromedia;Customer Relations;3395.78
+78797;Imogene L. Evans;28;Adobe;Research and Development;6835.73
+70493;Hollee L. Baldwin;37;Macromedia;Asset Management;3883.69
+14774;Nell J. Marquez;61;Cakewalk;Human Resources;1210.31
+49591;Isabelle X. Stein;26;Google;Research and Development;4567.37
+91241;Cheyenne E. Cook;53;Finale;Accounting;6452.45
+81676;Quinlan O. Finch;36;Altavista;Accounting;3804.84
+24251;Todd L. Bryant;56;Yahoo;Tech Support;4123.64
+10459;Barry P. Lester;44;Microsoft;Human Resources;5268.24
+20188;Uriel A. Hess;31;Lycos;Payroll;4076.68
+53243;Juliet X. Kirby;20;Borland;Human Resources;5945.74
+56613;Vaughan X. Kinney;67;Lavasoft;Customer Relations;3012.69
+63286;Maile S. Horton;35;Yahoo;Asset Management;4941.12
+87572;Chaney R. Bray;33;Adobe;Customer Relations;6507.6
+49485;Winifred D. Moon;42;Lycos;Advertising;9337.54
+51826;Joseph F. Soto;37;Chami;Finances;6788.71
+48233;Alana I. Zamora;31;Chami;Customer Relations;5210.37
+38787;Fatima W. Cohen;63;Microsoft;Sales and Marketing;8330.27
+15879;Regina I. Nicholson;70;Lycos;Media Relations;4548.71
+24267;Sade P. Johnson;24;Macromedia;Payroll;4999.83
+10836;Rosalyn W. Richmond;53;Chami;Human Resources;6773.52
+97364;Daniel U. Richards;55;Yahoo;Asset Management;7614.99
+93244;Ria W. Castro;29;Lavasoft;Quality Assurance;6851.09
+31079;Brendan B. Vincent;43;Finale;Customer Service;4757.38
+46647;Tyrone K. Mosley;40;Apple Systems;Payroll;7758.41
+59597;Desiree A. White;60;Lycos;Sales and Marketing;4785.73
+32255;Nehru G. Small;62;Borland;Advertising;6941.69
+29582;Hilda R. Moody;52;Borland;Accounting;4560.83
+65582;Russell X. Huff;20;Microsoft;Quality Assurance;2274.86
+649;Keiko Z. Garza;25;Finale;Research and Development;7847.5
+41460;Wing N. Le;66;Macromedia;Human Resources;3949.52
+16500;Lavinia W. Hinton;66;Sibelius;Advertising;6323.16
+95959;Alden O. Middleton;50;Adobe;Sales and Marketing;4479.56
+14418;Amena H. Barton;55;Finale;Customer Service;7121.18
+24220;Dean V. Church;39;Lavasoft;Payroll;2207.39
+35228;Frances P. Dejesus;24;Apple Systems;Tech Support;6920.53
+3352;Wesley L. Pugh;42;Finale;Public Relations;7117.38
+52862;Olga Z. Franco;62;Borland;Public Relations;3666.58
+27276;Ryan J. Duke;27;Lycos;Accounting;4302.34
+64973;Glenna S. Tyson;56;Apple Systems;Payroll;6253.62
+92118;Ezra K. Bright;23;Google;Quality Assurance;6145.47
+74123;Emerson Z. Petty;52;Chami;Advertising;5264.58
+37957;Ignacia Q. Cash;35;Finale;Customer Service;7189.56
+26190;Margaret Q. Boyd;35;Lycos;Customer Relations;7904.14
+43136;Devin E. Franco;58;Yahoo;Research and Development;1959.47
+24839;Noelle W. Morgan;46;Yahoo;Accounting;3677.66
+15092;Ralph M. Gould;28;Chami;Research and Development;3851.12
+64518;Hop T. Osborne;59;Yahoo;Customer Relations;3229.31
+24081;Abdul Q. House;60;Finale;Asset Management;7223.86
+26509;Arsenio I. Stephens;26;Cakewalk;Public Relations;9727.05
+41687;Yuri I. Conrad;23;Lycos;Human Resources;2607.69
+9108;Graiden R. Bonner;53;Altavista;Advertising;8963.22
+97186;Kenneth L. Garrett;54;Cakewalk;Payroll;3064.24
+65529;Hammett O. Mcintosh;19;Lycos;Media Relations;4301.23
+91220;Penelope J. Little;70;Borland;Tech Support;2221.07
+98371;Zoe T. Schneider;70;Google;Public Relations;3018.72
+3075;Timothy F. Erickson;34;Borland;Accounting;8296.53
+10602;Isaiah G. Black;67;Borland;Customer Relations;3893.72
+46688;Alyssa T. Simmons;40;Macromedia;Research and Development;5784.73
+77555;Isaiah S. Crawford;20;Sibelius;Finances;9768.23
+75910;Juliet Y. Reed;43;Macromedia;Sales and Marketing;3130.36
+20154;Mira Z. Suarez;70;Yahoo;Customer Service;4340.1
+74517;Celeste Z. Romero;51;Altavista;Customer Service;9879.38
+54052;Patience Z. Hunt;20;Apple Systems;Asset Management;4699.6
+97095;Jenna F. Hodge;69;Macromedia;Human Resources;4815.23
+6756;Kerry N. Lowery;54;Apple Systems;Customer Service;4111.72
+42920;Dacey J. Duran;22;Macromedia;Human Resources;4355.55
+69491;Miranda L. Lopez;37;Yahoo;Customer Service;5337.93
+20129;Wesley K. Hunter;35;Yahoo;Quality Assurance;9217.69
+34002;Britanney E. Vasquez;70;Adobe;Finances;7170.97
+50717;Illiana I. Harris;39;Borland;Accounting;9186.47
+39443;Francesca H. Cameron;18;Apple Systems;Customer Relations;6949.84
+12892;Forrest I. Benton;34;Lycos;Tech Support;5437.67
+48200;Jelani E. Allison;29;Microsoft;Accounting;7788.91
+44579;Eugenia O. Ramirez;53;Sibelius;Customer Service;4098.58
+94930;Gwendolyn X. Cole;66;Adobe;Customer Relations;2294.58
+67823;Tamekah M. Mclean;20;Microsoft;Accounting;8396.97
+91849;Tallulah H. Fields;53;Cakewalk;Asset Management;6608.25
+3301;Quyn I. Winters;20;Adobe;Advertising;6158.59
+49238;Jackson H. Sherman;62;Lycos;Customer Relations;8205.08
+25634;Aidan X. Yates;41;Microsoft;Legal Department;3927.18
+91417;Cairo S. Andrews;42;Google;Public Relations;3033.37
+92073;Ahmed Y. Stuart;25;Macromedia;Public Relations;4611.39
+58776;Hedwig F. Wolf;45;Adobe;Tech Support;3592.09
+93144;Adara V. Frazier;57;Altavista;Payroll;6818.36
+70730;Clark C. Gutierrez;26;Macromedia;Human Resources;4415.47
+34009;Miriam E. Bernard;65;Adobe;Customer Relations;1682.52
+61023;Kelly S. Kennedy;43;Finale;Quality Assurance;6268.8
+30783;Omar Y. Whitaker;63;Macromedia;Finances;4492.77
+20721;Valentine Y. Fuentes;66;Sibelius;Media Relations;5990.36
+29396;Carl U. Ingram;33;Macromedia;Media Relations;2524.65
+95384;Emmanuel U. Wynn;39;Yahoo;Finances;4444.67
+76494;Ivory V. Hopkins;51;Google;Tech Support;7981.77
+98212;Dennis V. Cochran;44;Altavista;Public Relations;5850.09
+53338;Drake H. Russell;41;Lavasoft;Public Relations;5956.18
+78254;Paula Z. Todd;55;Google;Customer Service;2022.85
+86716;Armand R. Cruz;67;Borland;Advertising;4395.01
+72117;Kellie A. Garrison;56;Sibelius;Customer Service;9498.95
+47203;Hammett K. Riley;65;Adobe;Media Relations;8254.54
+92610;Dakota E. Atkins;26;Google;Accounting;6914.97
+87053;Noelle S. Bright;39;Apple Systems;Advertising;3417.05
+13215;Jameson W. Knowles;56;Borland;Accounting;7337.81
+1559;Yen F. Buck;30;Altavista;Customer Service;2396.59
+80698;Josiah R. Jordan;42;Macromedia;Finances;7835.5
+83774;Nathan Z. Dillard;47;Cakewalk;Research and Development;9100.16
+51084;Paula Q. Hartman;53;Adobe;Tech Support;5910.26
+56618;Asher O. Owens;34;Chami;Asset Management;3025.13
+45887;Ferris G. Tate;36;Lavasoft;Payroll;5149.93
+42058;Jack T. Walters;40;Chami;Finances;7395.49
+7544;Whoopi D. Ruiz;56;Sibelius;Human Resources;7138.67
+29241;Cooper G. Howe;69;Borland;Tech Support;5372.2
+16832;Tatiana G. Parks;20;Adobe;Media Relations;8329.49
+8669;Daphne Q. Butler;65;Google;Tech Support;7188.71
+51394;Georgia D. Kemp;45;Adobe;Research and Development;1405.77
+31536;Chaim C. Duncan;65;Adobe;Human Resources;9629.64
+20371;Raya W. Emerson;69;Yahoo;Payroll;3041.71
+6500;Ivan W. Munoz;56;Macromedia;Media Relations;4363.66
+74074;Justina J. Benson;53;Borland;Customer Relations;9711.39
+47460;Kato N. Lawrence;65;Borland;Quality Assurance;2913.3
+14899;Christine A. Wilkins;58;Adobe;Legal Department;7255.89
+29399;Fitzgerald Q. Nichols;49;Lycos;Research and Development;3369.08
+48004;Wayne P. Contreras;45;Sibelius;Tech Support;7544.95
+75495;Ezra M. Buck;31;Altavista;Tech Support;9991.29
+70156;Marsden G. Contreras;34;Sibelius;Public Relations;6366.5
+79521;Daryl F. Burgess;62;Altavista;Payroll;8276.93
+59625;Lila J. Mcguire;68;Cakewalk;Accounting;6361.92
+81160;Beau A. Becker;67;Adobe;Quality Assurance;2076.85
+75078;Mason E. Dickson;37;Microsoft;Payroll;9184.01
+79611;Kai S. Jefferson;19;Google;Media Relations;9296.46
+16554;Hope W. Garcia;28;Lavasoft;Quality Assurance;4303.67
+40746;Tashya N. Campbell;40;Yahoo;Public Relations;5798.76
+79632;Walker B. Pierce;24;Sibelius;Customer Service;2893.78
+844;Wynter U. Elliott;20;Cakewalk;Sales and Marketing;1904.65
+35663;Doris B. Alexander;28;Apple Systems;Accounting;8111.17
+58017;Chantale P. Fields;34;Microsoft;Payroll;2968.4
+64115;Madeline J. Mcdonald;68;Adobe;Customer Relations;9991.32
+23721;Adara M. Barry;61;Adobe;Tech Support;5951.28
+7170;Angela R. Burks;22;Apple Systems;Tech Support;4079.74
+87686;Gail G. Conley;58;Borland;Payroll;8791.14
+67699;Isabella Y. Coleman;28;Google;Research and Development;3925.3
+23226;Desiree H. Shannon;51;Lavasoft;Legal Department;4786.39
+86347;Amelia A. Craig;27;Cakewalk;Accounting;6995.35
+24084;Meghan F. Boyd;20;Lavasoft;Quality Assurance;1579.79
+14669;Barry M. Hurst;52;Yahoo;Customer Relations;6480.85
+60093;Myles S. Baxter;31;Sibelius;Finances;8499.5
+41239;Kirsten E. Levine;44;Adobe;Human Resources;3653.58
+71406;Abdul W. Day;35;Microsoft;Quality Assurance;2345.03
+93130;Abigail W. Weaver;67;Sibelius;Legal Department;2840.96
+28047;Lacey X. Boyer;35;Lavasoft;Payroll;7372.51
+41689;Reese E. Mills;55;Yahoo;Sales and Marketing;6784.73
+4961;Kameko Z. Mcconnell;52;Altavista;Public Relations;3560.49
+78373;Megan Y. Rowland;30;Macromedia;Tech Support;6209.97
+2283;Nero Q. Beasley;23;Altavista;Public Relations;9154.44
+33660;Anastasia C. Pierce;26;Microsoft;Accounting;1724.24
+3485;Mia C. Dunn;18;Finale;Customer Relations;1668.6
+12235;Dorothy Z. Dennis;42;Lavasoft;Advertising;5404.93
+23385;Dustin V. Dennis;27;Macromedia;Legal Department;8311.85
+35311;Ivana T. Grant;32;Altavista;Customer Service;1153.19
+95630;Christopher G. Woodward;64;Finale;Advertising;6633.38
+5671;Xantha J. Rivas;52;Apple Systems;Legal Department;4779.38
+13466;Avram W. Bradshaw;68;Finale;Asset Management;4195.49
+77930;Sloane B. Buchanan;20;Google;Advertising;6978.22
+45106;Imelda Z. Berg;33;Chami;Sales and Marketing;1596.5
+86366;Karyn U. Rivera;47;Lavasoft;Advertising;3981.37
+92494;Veronica Q. Bell;61;Google;Tech Support;5172.69
+70192;Ramona X. Herring;21;Yahoo;Payroll;3433.98
+25825;Barclay W. Nichols;36;Altavista;Legal Department;4853.81
+43332;Tara D. Whitfield;62;Yahoo;Human Resources;7113.67
+65882;Jerry G. Mays;21;Yahoo;Finances;8866.07
+36444;Germane S. Harrington;40;Lycos;Accounting;3699.99
+76963;Shea B. Simon;20;Finale;Public Relations;8575.03
+1581;Lucas H. Adams;39;Cakewalk;Human Resources;9164.61
+57021;Tatiana N. Fuller;29;Cakewalk;Payroll;7626.19
+85954;Hamilton Q. Mendez;64;Google;Accounting;3024.24
+23569;Jameson M. Vega;45;Microsoft;Public Relations;9203.38
+33006;Angela L. Vazquez;26;Yahoo;Public Relations;8619.29
+83450;Bert J. Crosby;20;Yahoo;Media Relations;4308.14
+19047;Halee C. Cash;47;Altavista;Research and Development;3500.42
+64918;Kimberley P. Stewart;57;Lycos;Human Resources;2503.86
+71046;Signe M. Watkins;34;Sibelius;Quality Assurance;2023.99
+87908;Anthony G. Gross;50;Chami;Public Relations;1068.96
+36018;Quincy J. Bradford;51;Yahoo;Finances;1537.48
+86320;Chiquita P. Underwood;20;Sibelius;Legal Department;1050.61
+33237;Prescott Q. Mendoza;31;Sibelius;Finances;4078.28
+66111;Portia I. Nelson;38;Lavasoft;Human Resources;4765.82
+83015;Pamela T. Padilla;23;Finale;Tech Support;4952.3
+43473;Imani S. Rose;30;Adobe;Quality Assurance;9909.01
+60253;Chandler I. Morgan;45;Adobe;Tech Support;3059.38
+79942;Carlos T. Burch;53;Altavista;Customer Relations;9713.94
+46862;Ferdinand J. Padilla;28;Cakewalk;Sales and Marketing;1225.69
+99758;Ferris F. English;44;Chami;Quality Assurance;1608.52
+28049;Kane H. Lopez;49;Lavasoft;Media Relations;4389.1
+70354;Raya G. Rollins;60;Sibelius;Sales and Marketing;1278.55
+90376;Clare F. Mclean;40;Finale;Asset Management;8056.02
+47318;Seth W. Walls;63;Cakewalk;Media Relations;9238.18
+60741;Kiona U. Dickerson;48;Cakewalk;Finances;3389.25
+75041;Claudia C. Woods;36;Finale;Public Relations;2222.27
+89238;Kelly Y. Combs;67;Google;Legal Department;8193.19
+11326;Ivy Y. Horne;62;Apple Systems;Customer Relations;2697.13
+42958;Melvin K. Noble;60;Chami;Sales and Marketing;4750.8
+30632;Echo I. Stuart;58;Lycos;Advertising;8079.69
+1929;Abra R. Spencer;35;Yahoo;Public Relations;8913.3
+86662;Alden Q. Morin;53;Macromedia;Quality Assurance;7571.86
+56683;Tyler Y. Sutton;64;Yahoo;Media Relations;3388.92
+41324;Mohammad T. Poole;57;Sibelius;Media Relations;3474.85
+68524;Aubrey N. Coleman;30;Lycos;Customer Service;8988.04
+70272;MacKensie I. Hamilton;22;Lycos;Public Relations;6909.99
+84888;Kato N. Cooper;56;Chami;Media Relations;9434.73
+92844;Elizabeth Q. Hobbs;53;Cakewalk;Research and Development;8391.54
+26085;Catherine K. Slater;45;Lavasoft;Human Resources;8278.29
+86892;Reagan E. Harris;39;Lycos;Legal Department;6372.75
+5738;Jade N. Ellis;38;Altavista;Asset Management;9566.74
+35247;Carl U. Sanders;69;Apple Systems;Tech Support;9964.68
+9610;Jada C. Roman;55;Finale;Legal Department;9073.72
+69060;Martha C. Roman;54;Google;Accounting;5268.38
+24213;Patrick I. Velazquez;33;Borland;Advertising;9877.29
+1059;Jayme W. Farley;19;Google;Accounting;7143.97
+77914;Athena X. Holmes;46;Borland;Media Relations;7006.64
+34556;Tamara I. Ellison;33;Google;Advertising;9118.21
+10772;Marvin M. Parrish;58;Lycos;Media Relations;1656.12
+86536;Harper I. Blair;58;Google;Accounting;4004.85
+47166;Darius C. Carter;34;Microsoft;Research and Development;7854.7
+67599;Wing T. Mercer;54;Altavista;Research and Development;7257.73
+41347;Jameson G. Payne;43;Google;Sales and Marketing;4170.9
+46036;Adele T. Dickson;36;Google;Sales and Marketing;3995.79
+74454;Kathleen G. Gilliam;42;Yahoo;Asset Management;8056.34
+8656;Lacy B. Sparks;37;Microsoft;Customer Service;1636.23
+69521;Nadine T. Sullivan;53;Sibelius;Advertising;7811.01
+97448;Kaitlin O. George;57;Lavasoft;Advertising;7198.41
+15474;Donna Z. Daugherty;32;Finale;Asset Management;6316.24
+26989;Brenna O. Nguyen;61;Altavista;Payroll;9813.15
+66660;Len P. Valencia;48;Altavista;Advertising;3167.67
+18019;Mari W. Ellis;58;Macromedia;Research and Development;9516.26
+2050;Jena J. Gaines;21;Lycos;Payroll;5136.61
+52901;Troy E. Burch;33;Google;Tech Support;3283.26
+3668;Stuart T. Justice;25;Sibelius;Human Resources;8339.18
+62599;Camden S. Phillips;43;Lycos;Sales and Marketing;3534.94
+50550;Raya I. Lawrence;32;Borland;Research and Development;7631.35
+96607;Lavinia B. Chaney;39;Yahoo;Tech Support;1696.03
+5347;Brody Y. Casey;53;Chami;Media Relations;6272.34
+81114;Sean E. Richmond;66;Macromedia;Customer Relations;7885.37
+62324;Kyra C. Valenzuela;43;Cakewalk;Customer Service;4889.18
+82597;Azalia X. Kelley;40;Lavasoft;Customer Service;9682.59
+99519;James C. Fuller;64;Adobe;Legal Department;8513.15
+32889;Oscar B. Yates;59;Google;Finances;1891.45
+52705;Aladdin Z. Snow;64;Adobe;Payroll;7405.52
+82981;Yuli N. Peterson;18;Adobe;Media Relations;9835.13
+36038;Brittany B. Warner;48;Sibelius;Customer Service;9134.98
+79415;Pascale D. Benson;29;Finale;Media Relations;6238.31
+27188;Len I. Baker;24;Apple Systems;Research and Development;4188.58
+3021;Gray T. Vance;51;Lavasoft;Media Relations;2562.27
+68518;Kelly Q. Pearson;45;Lavasoft;Finances;6422.57
+71422;Uriel N. Ward;57;Yahoo;Media Relations;7310.99
+58661;Aileen F. Warren;66;Lavasoft;Customer Relations;9624.23
+29296;Bernard N. Mcintyre;24;Macromedia;Finances;8732.38
+59779;Tucker S. Hinton;57;Macromedia;Legal Department;8234.83
+47011;Luke F. Mcgowan;32;Borland;Customer Relations;1299.22
+70698;Bradley C. Guthrie;68;Borland;Legal Department;8079.41
+40700;Harriet W. Murphy;50;Microsoft;Advertising;9944.24
+10644;Jaden E. Dalton;59;Finale;Public Relations;5012.68
+36655;Cedric D. Fleming;53;Finale;Sales and Marketing;8127.97
+77532;Kylan N. Floyd;21;Lavasoft;Customer Relations;6731.05
+29470;Sacha O. Garrett;55;Cakewalk;Human Resources;6412.67
+4717;Kenyon U. Ward;57;Finale;Finances;5796.5
+68476;Winter C. Best;35;Yahoo;Accounting;9435.12
+47601;Emerson M. Mccormick;43;Lycos;Accounting;2493.18
+34024;Jane K. Fitzgerald;35;Macromedia;Customer Relations;8990.62
+60937;Richard A. Sims;34;Apple Systems;Media Relations;2374.14
+37879;Finn E. Wade;64;Lavasoft;Human Resources;1798.85
+65052;Galvin S. Melendez;30;Adobe;Finances;2743.42
+72483;Kay S. Blanchard;51;Finale;Legal Department;5153.38
+21762;Ciaran V. Hansen;45;Finale;Quality Assurance;6508.93
+1485;Fleur Z. Curtis;67;Sibelius;Accounting;8720.27
+79357;India E. Foreman;52;Lycos;Legal Department;1122.35
+49193;Dylan L. Clay;31;Finale;Media Relations;2534.83
+95295;Inga A. Hester;48;Lavasoft;Asset Management;3433.21
+9765;Zenaida F. Mccormick;24;Finale;Research and Development;9768.3
+83454;Adria U. Frost;61;Lycos;Accounting;2898.32
+39126;Amity B. Pierce;52;Macromedia;Research and Development;5103.94
+21890;Otto O. Whitehead;37;Lycos;Accounting;8873.33
+14911;Maggie Y. Kramer;36;Chami;Media Relations;6533.91
+77902;Jameson X. Jennings;51;Cakewalk;Research and Development;1305.4
+85542;Cade Z. Campbell;64;Altavista;Quality Assurance;9723.93
+31698;Carolyn S. Love;29;Finale;Media Relations;8214.45
+9482;Vaughan Y. Delacruz;36;Microsoft;Payroll;6418.17
+86341;Rhonda Q. Cain;35;Yahoo;Finances;1424.37
+89301;Patience H. Hensley;19;Yahoo;Accounting;6123.83
+96466;Cailin M. Shaffer;64;Macromedia;Asset Management;4946.93
+19072;Lyle X. Mckenzie;32;Macromedia;Quality Assurance;1737.17
+54273;Sybil K. Johns;37;Finale;Legal Department;4439.24
+63232;Bevis T. Howell;46;Altavista;Payroll;8699.67
+20365;Brody J. Knapp;41;Chami;Customer Relations;8892.99
+7493;Dara T. Lara;18;Macromedia;Accounting;3899.58
+32524;Dalton P. Luna;22;Macromedia;Media Relations;3817.96
+89882;Cullen V. Macdonald;62;Macromedia;Payroll;1752.14
+82093;Paula W. Sherman;34;Yahoo;Media Relations;1428.66
+14997;Karly Y. Maldonado;63;Macromedia;Public Relations;4191.96
+28063;Malcolm C. Petty;31;Microsoft;Finances;1285.31
+84152;Sloane Q. Melton;36;Cakewalk;Tech Support;3481.6
+93793;Pamela U. Paul;35;Chami;Customer Relations;6226.16
+18281;Ora H. Price;65;Lycos;Finances;3582.15
+38210;Constance H. Mitchell;37;Altavista;Asset Management;4957.18
+50201;Lilah J. Nguyen;67;Microsoft;Customer Relations;8661.37
+49856;Evelyn V. Salinas;56;Chami;Sales and Marketing;1008.07
+94810;Gay G. Compton;70;Macromedia;Asset Management;8034.18
+4429;Hilary L. Mcfadden;62;Yahoo;Customer Relations;3918.88
+31560;Kevin S. Johnston;51;Chami;Finances;5034.74
+43661;Joseph G. Warner;29;Adobe;Advertising;9518.15
+94037;Patrick E. Miles;48;Lycos;Finances;8642.03
+28068;Guy H. Mckenzie;65;Lycos;Advertising;5461.8
+82055;Oliver K. Bartlett;52;Finale;Tech Support;2897.41
+23163;Martha W. Rios;38;Adobe;Sales and Marketing;3309.03
+59338;Bruce T. Battle;57;Apple Systems;Tech Support;4393.33
+68162;Aubrey Y. Slater;37;Borland;Media Relations;4239.05
+4130;Barclay X. Hamilton;69;Macromedia;Customer Relations;6595.97
+61707;Sage G. Ayers;50;Lycos;Customer Relations;8594.82
+73168;Lunea V. Walsh;56;Sibelius;Payroll;7268.55
+16100;Bruno K. Mathews;22;Google;Advertising;8532.19
+83864;Lee T. Hebert;35;Adobe;Sales and Marketing;7350.1
+70252;George D. Newman;51;Adobe;Research and Development;9107.98
+91866;Justina I. Hyde;49;Lavasoft;Payroll;1203.7
+27783;Doris X. Berg;38;Sibelius;Advertising;4024.64
+11473;Willow U. Garrett;51;Chami;Advertising;2522.18
+42047;Octavius R. Sawyer;30;Cakewalk;Finances;9733.67
+55909;Perry H. Hopkins;52;Lavasoft;Asset Management;9439.15
+4627;Blossom E. Guerrero;26;Adobe;Media Relations;8754.01
+76450;Leandra Y. Morton;18;Sibelius;Sales and Marketing;2972.85
+24209;Basil H. Moreno;50;Google;Customer Relations;7624.58
+78115;Octavia Z. Oneill;58;Cakewalk;Customer Relations;8853.74
+93768;Aphrodite U. Hardy;44;Adobe;Tech Support;7890.14
+55849;Murphy C. Fulton;61;Google;Tech Support;4447.68
+89070;Martina X. Tran;66;Chami;Tech Support;1708.73
+2051;Wallace Y. Vargas;37;Altavista;Customer Relations;9372.55
+9302;Vera S. Foreman;47;Altavista;Research and Development;6017.26
+89474;Cassady L. Mills;30;Google;Research and Development;4364.37
+34557;Katelyn H. Sanford;54;Apple Systems;Research and Development;9954.13
+35828;Cameran V. Rich;37;Macromedia;Sales and Marketing;8509.59
+16649;Orla E. Hyde;44;Cakewalk;Research and Development;2709.6
+98010;Carl T. Baker;21;Microsoft;Sales and Marketing;4777.69
+64551;Karina S. Ruiz;21;Adobe;Customer Relations;6392.6
+52860;Iliana P. Compton;63;Altavista;Customer Relations;6327.95
+57097;Kermit N. Malone;69;Cakewalk;Asset Management;2496.83
+72522;Zephr Z. Delacruz;40;Lavasoft;Finances;6419.57
+9874;Madison X. Maddox;24;Chami;Customer Relations;4527.94
+54210;Doris R. Gross;67;Microsoft;Accounting;5734.22
+66944;Harlan D. Sheppard;51;Adobe;Sales and Marketing;1463.6
+83686;Dale W. Dalton;53;Apple Systems;Human Resources;5166.25
+63866;Richard Y. Levine;48;Lycos;Payroll;7836.23
+2278;Basil R. Blake;42;Google;Payroll;7427.08
+82051;Seth Y. Pearson;23;Adobe;Payroll;2930.03
+97372;Graiden A. Savage;31;Finale;Research and Development;2093.57
+76442;Bianca V. Rose;57;Chami;Customer Relations;7236.17
+79135;Constance N. Sherman;33;Chami;Payroll;4337.23
+1263;Chester J. Hartman;55;Lycos;Legal Department;6588.79
+63105;Melyssa X. Parrish;46;Cakewalk;Sales and Marketing;5257.01
+84090;Madison X. Lindsey;46;Altavista;Advertising;2002.86
+85781;Jeanette G. Brady;51;Yahoo;Media Relations;9785.72
+24426;Robin R. Guy;41;Altavista;Research and Development;9601.81
+92312;Rhona U. Hendrix;40;Google;Customer Service;5120.29
+12272;Bell T. Lawson;22;Cakewalk;Public Relations;3173.65
+20610;Sandra A. Thornton;65;Apple Systems;Payroll;7316.56
+77095;Emily L. Tran;70;Finale;Human Resources;1925.97
+71602;Kathleen K. Guerra;59;Yahoo;Public Relations;8032.68
+19385;Conan Z. Schmidt;21;Cakewalk;Advertising;4814.08
+74591;Cameran K. Bryan;43;Yahoo;Tech Support;8797.59
+90177;Ina K. Kelly;24;Lycos;Sales and Marketing;9644.3
+31575;Elaine F. Salinas;30;Finale;Finances;9183.13
+65110;Judith D. Vega;22;Lavasoft;Quality Assurance;6024.41
+67665;Halla D. Hurst;70;Finale;Accounting;8283.11
+44834;Brynn I. Bradley;29;Finale;Finances;2309.48
+33971;Darrel Q. Harrington;59;Borland;Tech Support;7270.48
+49297;Drake Z. Valenzuela;31;Altavista;Human Resources;3234.88
+67612;Rigel U. Wheeler;29;Yahoo;Research and Development;1294.54
+31836;Pearl Q. Scott;27;Chami;Advertising;3722.28
+58630;Davis E. Weber;69;Cakewalk;Research and Development;4252.3
+69009;Asher X. Kirkland;40;Borland;Accounting;3408.81
+9469;Dalton V. Kennedy;21;Apple Systems;Public Relations;4193.3
+62398;Cruz F. Dudley;20;Cakewalk;Public Relations;3712.86
+98320;Mason A. Gould;61;Google;Research and Development;2118.26
+60720;Sara Y. Rice;42;Sibelius;Media Relations;1302.89
+26746;Caryn C. Barrett;28;Altavista;Tech Support;3288.59
+82552;Carolyn X. English;65;Cakewalk;Media Relations;4061.67
+50455;Kim U. Mcclain;28;Lavasoft;Media Relations;8744.06
+5981;Marvin K. Nieves;52;Lycos;Asset Management;2593
+53364;Aileen E. Mcintyre;36;Yahoo;Sales and Marketing;5982.28
+12426;Ima O. Gamble;43;Sibelius;Human Resources;6411.38
+57525;Isadora N. Collins;56;Google;Customer Service;7876.51
+27460;Scarlet K. Bauer;28;Finale;Asset Management;8647.12
+50263;Maris D. Cooke;20;Lycos;Media Relations;7356.16
+78707;Uta K. Murray;69;Altavista;Customer Relations;3905.91
+69532;Joseph A. Mckenzie;29;Finale;Quality Assurance;2577.51
+65250;Kyle G. Mckee;39;Finale;Research and Development;2946.12
+99676;Merritt K. Price;58;Chami;Legal Department;9571.31
+14741;Gretchen L. Hubbard;52;Lavasoft;Quality Assurance;3255.6
+97878;Yvette G. Compton;44;Microsoft;Legal Department;4741.19
+72386;Gabriel V. Roberts;43;Chami;Media Relations;4506.7
+90532;Buckminster G. Avery;50;Cakewalk;Sales and Marketing;4667.5
+4854;Timon L. Dyer;42;Borland;Accounting;2094.41
+9185;Carissa A. Johns;35;Chami;Finances;6033.42
+70784;Celeste P. Emerson;19;Sibelius;Research and Development;6434.29
+99204;Hope S. Bradley;24;Borland;Research and Development;2497.68
+87601;Bevis Z. Aguilar;25;Google;Legal Department;1502.12
+3155;Latifah P. Ellison;39;Sibelius;Advertising;3156.63
+85656;Mollie C. Dunn;25;Finale;Payroll;2172.91
+196;Keefe K. Glass;65;Lycos;Sales and Marketing;3904.28
+3934;Tanner P. Rhodes;54;Adobe;Media Relations;4302.24
+76023;Jaime Q. Meyer;48;Cakewalk;Human Resources;7831.43
+44682;Brynn G. Donaldson;52;Yahoo;Customer Relations;8775.81
+54912;Eden F. Leon;22;Adobe;Payroll;3015.27
+89932;Isadora H. Guy;41;Yahoo;Media Relations;6387.21
+5553;Uta U. Haley;54;Borland;Quality Assurance;9237.14
+72990;Upton F. Glass;60;Lavasoft;Legal Department;2991.34
+52904;Zena V. Hudson;59;Cakewalk;Quality Assurance;7298.27
+2612;Hunter F. Puckett;56;Altavista;Media Relations;4416.09
+98851;Steven A. Lindsay;33;Apple Systems;Media Relations;8097.49
+67255;Elvis A. Blankenship;43;Macromedia;Legal Department;2490.17
+83466;Carl I. Kennedy;40;Macromedia;Payroll;1101.01
+14117;Edan W. Martinez;42;Macromedia;Customer Service;4996.7
+76087;Dahlia Y. Schneider;31;Finale;Accounting;3086.71
+32134;Holmes A. Garrett;54;Altavista;Advertising;3162.82
+91638;Aladdin M. Velasquez;36;Lycos;Research and Development;9349.5
+85680;Jenette A. Wilkerson;23;Finale;Legal Department;4163.99
+65542;Camden Q. Nelson;28;Google;Finances;2577.57
+34083;Jescie H. Acosta;51;Altavista;Advertising;7847.26
+37114;Kasimir X. Irwin;49;Google;Asset Management;2633.23
+74870;Stuart O. Blevins;53;Apple Systems;Media Relations;1655.39
+32618;Genevieve V. Erickson;68;Lavasoft;Accounting;9599.14
+38816;Irene D. Zimmerman;47;Google;Advertising;6562.38
+96205;Kylie O. Newman;51;Adobe;Advertising;7186.07
+38446;Elliott R. Martinez;34;Lavasoft;Finances;5443.77
+43323;Francis S. Castillo;57;Microsoft;Quality Assurance;5256.88
+34034;Melinda X. Hodge;33;Microsoft;Research and Development;9486.47
+71168;Camille Q. Meadows;30;Adobe;Finances;7886.47
+14903;Carson M. Reynolds;29;Microsoft;Research and Development;6817.17
+45133;Timothy L. Cannon;21;Lavasoft;Payroll;7961.72
+69734;Deborah D. Vazquez;18;Macromedia;Customer Relations;8246.69
+37622;Erin D. Tyler;19;Google;Asset Management;8905.42
+66446;Michelle P. Craig;69;Macromedia;Customer Service;2926.6
+32019;Kiona M. Brock;19;Adobe;Quality Assurance;9298.01
+64507;Theodore R. Curtis;60;Cakewalk;Tech Support;9555.67
+24592;Channing W. Osborn;56;Apple Systems;Payroll;3360.74
+1648;Lydia E. Powell;23;Cakewalk;Accounting;7373.87
+27187;Nissim Y. Fulton;18;Altavista;Advertising;5073.79
+63489;Echo Y. Kim;54;Chami;Research and Development;4701.33
+48049;Bryar E. Andrews;22;Sibelius;Customer Relations;5526.09
+31985;Sybil U. Figueroa;54;Sibelius;Quality Assurance;6038.28
+68107;Eagan Q. Duncan;60;Altavista;Payroll;8147.35
+98966;Idona L. Oconnor;19;Chami;Media Relations;1347.51
+68120;Barrett N. Mcfarland;39;Altavista;Quality Assurance;9127.03
+81523;Ruby I. Castro;68;Borland;Accounting;1201.27
+13019;Patience K. Glenn;65;Cakewalk;Finances;7166.56
+49384;Clarke M. Hughes;30;Apple Systems;Sales and Marketing;8336.51
+27141;Alvin F. Gutierrez;39;Sibelius;Payroll;4413.8
+62359;Geoffrey L. Obrien;20;Google;Sales and Marketing;4472.17
+80126;Tyrone P. Bryant;32;Chami;Finances;7275.55
+40177;Minerva W. Kidd;64;Lycos;Human Resources;9684.79
+68771;Herman K. Rosario;34;Altavista;Accounting;6564.34
+14341;Elizabeth P. Bradshaw;54;Lycos;Advertising;1551.63
+25872;Rhea W. Macdonald;58;Lycos;Finances;1950.71
+51482;Porter Q. Glover;48;Adobe;Advertising;9474.83
+964;Ezra O. Sawyer;54;Adobe;Legal Department;1545.37
+60001;Clinton Q. Taylor;53;Borland;Asset Management;1067.39
+95257;Shana U. Elliott;43;Google;Finances;8626.72
+12352;Melissa T. Watson;29;Altavista;Accounting;8287.58
+27823;Gabriel P. Taylor;18;Cakewalk;Asset Management;5601.85
+1495;Keelie G. Vaughan;65;Macromedia;Finances;5810.3
+82189;Calvin Z. Hart;62;Altavista;Public Relations;5361.7
+67840;Trevor U. Kirby;27;Sibelius;Human Resources;2983.92
+28878;Ann L. Blevins;20;Cakewalk;Public Relations;5573.77
+60711;Louis I. Ratliff;19;Altavista;Finances;7358.28
+17732;Adrienne X. Rollins;50;Cakewalk;Customer Relations;2113.4
+74908;Fallon F. Berg;52;Lycos;Asset Management;9095.32
+88994;Winter D. Drake;65;Microsoft;Advertising;5212.93
+8832;Jocelyn A. Monroe;23;Borland;Asset Management;6884.93
+47546;Vance D. Mcgee;70;Altavista;Accounting;6343.76
+84259;Eagan F. Barry;24;Altavista;Asset Management;3740.62
+88300;Ariana K. Townsend;31;Yahoo;Quality Assurance;2545.07
+85966;Orla Y. Rasmussen;68;Cakewalk;Customer Service;9261.82
+94792;Gwendolyn B. Mcconnell;52;Macromedia;Quality Assurance;3648.87
+353;Amaya F. Vang;28;Finale;Tech Support;3052.12
+47523;Zorita Y. Aguirre;42;Macromedia;Quality Assurance;5800.52
+41263;Moana I. Carlson;26;Macromedia;Advertising;6407.52
+15615;Eric P. Webb;65;Cakewalk;Human Resources;3428.89
+85575;Wyoming K. Hodges;51;Finale;Human Resources;9139.79
+25593;Shana Y. Dale;48;Borland;Customer Service;3115.52
+308;Xandra R. Hensley;32;Apple Systems;Sales and Marketing;1576.2
+29879;Jayme M. Lindsey;41;Chami;Customer Service;7558.56
+67367;Nicole F. Sloan;33;Lycos;Human Resources;8711.7
+14883;Caesar V. Acevedo;53;Google;Accounting;9786.23
+30574;Illiana B. Nieves;57;Adobe;Customer Relations;5170.13
+81524;Echo M. Simmons;27;Google;Research and Development;4244.76
+84441;Hammett L. Andrews;55;Lavasoft;Payroll;2623.23
+45176;Uma E. Taylor;31;Google;Advertising;2649.14
+14280;Brendan H. Decker;32;Cakewalk;Payroll;8063.93
+89938;Jayme O. Lee;19;Adobe;Quality Assurance;5639.72
+71335;Oprah I. Craig;57;Macromedia;Customer Service;5095.15
+40110;Amy A. Hart;58;Altavista;Payroll;9345.04
+47618;Rylee S. Schroeder;53;Altavista;Tech Support;5708.45
+96347;Phoebe I. Sellers;64;Cakewalk;Legal Department;3464.61
+36780;Dexter L. Parsons;61;Sibelius;Customer Service;9998.14
+76866;Kerry N. Jacobson;62;Lycos;Legal Department;9670.59
+79911;Maryam E. Franks;18;Chami;Accounting;4289.79
+42726;Beau Z. Buck;54;Apple Systems;Legal Department;1923.66
+98234;Wyoming J. Baird;46;Yahoo;Asset Management;4691.97
+2870;Leila S. Kidd;19;Finale;Asset Management;1672.74
+75190;Fleur B. Patrick;35;Google;Advertising;4753.41
+30104;Jelani D. Neal;68;Google;Payroll;2014.09
+98206;Willa N. Gentry;65;Borland;Research and Development;1914.68
+89343;Neville U. Frank;49;Microsoft;Public Relations;1739.71
+10058;Moses C. Jenkins;66;Apple Systems;Customer Service;7144.4
+53671;Ulric L. Warren;54;Apple Systems;Media Relations;7031.24
+1241;Belle F. Marsh;29;Yahoo;Payroll;7968.31
+2344;Wynne I. Charles;29;Lycos;Legal Department;9426.94
+73839;Wendy Z. James;35;Lycos;Public Relations;6738.44
+50966;Courtney N. Summers;30;Adobe;Media Relations;5828.4
+23633;Kylee V. Mckee;68;Google;Advertising;3369.19
+19894;Lamar R. Henderson;50;Microsoft;Tech Support;5905.35
+6857;Ariana T. Beck;48;Altavista;Finances;7808.95
+3610;Suki H. Stout;45;Sibelius;Human Resources;4139.64
+48399;Griffith C. Rodriguez;19;Chami;Customer Relations;8395.6
+15858;Aurelia C. Barrett;34;Lavasoft;Human Resources;4972.27
+82973;George N. Mcgee;29;Chami;Tech Support;2839.05
+71449;Quentin K. Snider;22;Cakewalk;Payroll;8530.24
+58636;Brody Q. Tate;44;Adobe;Media Relations;9399.31
+56694;Lee P. Clarke;30;Google;Legal Department;5695.69
+29316;Denise I. Wagner;56;Borland;Research and Development;8129.25
+38209;Lee F. Roberson;55;Adobe;Accounting;7414.47
+76936;Xavier L. Morris;53;Cakewalk;Accounting;8044
+58652;Jada U. Solomon;40;Microsoft;Customer Service;2340.11
+31637;Isaac D. Ramirez;41;Lycos;Public Relations;2232.34
+17191;Ivy E. Waller;55;Lavasoft;Media Relations;5683.47
+73653;Amery H. Tran;29;Apple Systems;Asset Management;8104.93
+38857;Cairo M. Richards;25;Macromedia;Asset Management;4837.14
+67746;Kay W. Arnold;20;Finale;Customer Relations;3972.5
+15883;Chase J. Mendoza;28;Sibelius;Finances;6408.8
+60892;Wade H. Richard;25;Lavasoft;Sales and Marketing;3270.31
+76670;Ian A. Shepard;24;Lycos;Public Relations;8281.38
+21721;Gillian F. Simmons;26;Adobe;Public Relations;5036.58
+19566;Sean P. Barton;53;Borland;Accounting;8166.13
+2837;Evangeline Z. Hamilton;53;Lycos;Legal Department;7137.12
+79914;Lisandra U. Harding;38;Cakewalk;Quality Assurance;2205.21
+9959;Mariko Z. Elliott;65;Lavasoft;Payroll;6687.97
+14897;Kenneth I. Chaney;27;Borland;Asset Management;4743.56
+94038;Kyla C. Levine;28;Macromedia;Accounting;7840.89
+27956;Owen V. Walker;40;Google;Payroll;2007.5
+77435;Hedley Z. Brooks;26;Chami;Legal Department;8290.2
+38671;Kylan Q. Lee;46;Borland;Accounting;1592.03
+29336;Steel Q. Shannon;23;Lavasoft;Media Relations;9104.95
+15369;Chancellor H. Wall;21;Microsoft;Human Resources;1949.88
+14238;Omar D. Santiago;41;Altavista;Public Relations;8747.63
+20147;Rhona C. Perkins;64;Adobe;Legal Department;5902.93
+48142;Xanthus U. Walker;70;Adobe;Legal Department;7009.45
+12827;Eric R. Logan;24;Finale;Legal Department;3485.42
+24962;Jordan B. Mathis;44;Cakewalk;Advertising;9599.99
+7297;Chiquita H. Arnold;58;Chami;Media Relations;5940.98
+87183;Xena C. Robertson;27;Google;Customer Service;2175.89
+25011;Jarrod G. Gordon;44;Macromedia;Quality Assurance;1668.79
+92472;Chava Q. Johnson;21;Sibelius;Sales and Marketing;2252.24
+7753;Libby P. Britt;59;Apple Systems;Human Resources;6612.55
+49843;Nero A. Allison;27;Cakewalk;Customer Service;8931.07
+14369;Amy T. Tran;45;Microsoft;Legal Department;2579.94
+39894;Laura F. Cain;61;Microsoft;Research and Development;6987.69
+24596;Mechelle Z. Roach;39;Sibelius;Quality Assurance;7740.63
+25839;Kendall K. Lancaster;51;Yahoo;Media Relations;8279.04
+51811;Audra C. Sampson;68;Adobe;Customer Relations;1233.7
+13425;Wyatt D. Mccarthy;69;Finale;Research and Development;3869.66
+24058;Maisie Z. Moore;30;Lavasoft;Human Resources;9275.67
+21037;Michelle R. Rosa;43;Yahoo;Quality Assurance;7344.25
+92332;Cheryl C. Holcomb;49;Borland;Legal Department;5761.83
+17158;Jennifer U. Garcia;55;Lycos;Legal Department;4417.61
+98594;Maite L. Russell;54;Google;Advertising;6744.04
+60624;Olga Y. Keller;69;Borland;Quality Assurance;4235.7
+35350;Ocean S. James;23;Lavasoft;Accounting;4019.32
+71528;Dolan I. Barnes;35;Macromedia;Asset Management;5989.09
+67749;Lillith U. Huffman;40;Chami;Advertising;2952.52
+18499;Felicia M. Bass;21;Google;Asset Management;2080.15
+9404;Kyle M. Price;60;Altavista;Finances;1490.77
+79517;MacKensie C. Spencer;24;Chami;Legal Department;4058.78
+72556;Ainsley F. Vasquez;69;Lavasoft;Customer Relations;8354.13
+34427;Kylynn Z. Weeks;64;Apple Systems;Quality Assurance;8409.99
+39768;Clio J. Guthrie;54;Borland;Quality Assurance;4466.98
+19685;Herman B. Combs;70;Sibelius;Tech Support;3743.86
+11118;Brenda S. Hale;37;Cakewalk;Tech Support;3337.22
+98777;Yardley H. Gray;55;Finale;Research and Development;4812.44
+74180;Lesley G. Lyons;55;Sibelius;Human Resources;8151.91
+57628;Cyrus D. Holcomb;69;Lavasoft;Finances;3949.09
+27477;Emma B. Tyler;20;Finale;Legal Department;6216.67
+4651;Malachi X. Bridges;30;Google;Human Resources;6370.78
+58166;Zeus C. Tanner;54;Lavasoft;Customer Relations;7041.2
+3334;Coby B. Baird;24;Sibelius;Legal Department;9987.86
+38270;Hasad R. Solomon;40;Macromedia;Media Relations;1109.12
+62810;Leslie D. Trujillo;19;Macromedia;Legal Department;4585.54
+18205;Beck A. Robles;34;Yahoo;Tech Support;8366.63
+55484;Gail Y. Ramos;67;Adobe;Asset Management;6079.5
+88189;Haviva B. Deleon;42;Macromedia;Customer Service;2411.63
+45494;Noble X. Mcneil;43;Macromedia;Human Resources;2301.66
+67495;Tarik C. Kemp;61;Borland;Finances;4827.59
+63023;Evelyn Q. Stuart;23;Google;Finances;3455.06
+94731;Wesley I. Knowles;59;Altavista;Sales and Marketing;9098.7
+38715;Isabella J. Trujillo;57;Altavista;Public Relations;1669.1
+25753;Noelani O. Rowe;48;Borland;Advertising;2407.9
+92340;Michael H. Whitley;64;Apple Systems;Advertising;1438.3
+99311;Isabelle O. Booth;32;Lycos;Payroll;6572.6
+8452;Garrison V. Horne;67;Lycos;Payroll;6937.05
+69445;Beck D. Burt;24;Google;Public Relations;8859.96
+23609;Iola V. House;18;Finale;Tech Support;5024.38
+62548;Nichole Q. Walsh;70;Lycos;Quality Assurance;8508.14
+80171;Dacey V. Roman;30;Google;Accounting;2345.08
+59318;Karina D. Mack;58;Apple Systems;Customer Relations;1988.09
+17155;Coby F. Fletcher;44;Borland;Advertising;3559.14
+60869;Lana M. Blanchard;18;Microsoft;Human Resources;2110.53
+23532;Cole U. Robinson;57;Google;Research and Development;1610.84
+68302;Kamal S. Pace;20;Sibelius;Public Relations;3791.99
+15399;Phelan Q. Whitley;28;Lycos;Finances;6914.06
+90885;Hamish R. Russell;33;Lycos;Asset Management;5186.71
+37854;Katell Y. Barnett;34;Altavista;Customer Service;7531.55
+30829;Darryl V. Chavez;42;Google;Sales and Marketing;6842.22
+5283;Bernard H. King;21;Chami;Human Resources;4260.89
+13110;Rae V. Ward;66;Lycos;Public Relations;8895.92
+79619;Randall R. Ware;66;Lavasoft;Sales and Marketing;5259.35
+3437;Guy T. Stewart;23;Lavasoft;Media Relations;2424.77
+24588;Buffy M. Roach;34;Finale;Media Relations;6766.44
+87620;Aquila M. Wilson;27;Borland;Payroll;5429.54
+65322;Kennedy Y. Zamora;40;Yahoo;Sales and Marketing;8589.4
+38519;Keegan P. Boyd;47;Adobe;Customer Service;5198.64
+22638;Velma Z. Wagner;51;Macromedia;Accounting;9649.37
+62140;Sigourney N. Stanley;55;Macromedia;Asset Management;3642.15
+10234;Raja V. Shaw;60;Apple Systems;Advertising;3468.45
+20784;Nayda S. Salinas;61;Apple Systems;Media Relations;8146.11
+90433;Riley J. Brewer;67;Chami;Advertising;4280.93
+18569;Ariel E. Mack;52;Chami;Quality Assurance;7326.94
+12195;Sybil M. Hartman;37;Cakewalk;Asset Management;4857.15
+32830;Belle Y. Barker;53;Google;Finances;6521.18
+37596;Marcia L. Hendricks;19;Apple Systems;Tech Support;9356.27
+13032;Zena J. Leblanc;31;Finale;Legal Department;6601.81
+21876;Mara N. Kemp;32;Sibelius;Customer Service;9767.48
+76513;Heidi H. Lee;38;Microsoft;Advertising;7044.71
+10917;Ezra Q. Sherman;27;Cakewalk;Payroll;2238.53
+91444;Jakeem Q. Burnett;19;Lycos;Sales and Marketing;6345.93
+91657;Rowan R. Ford;45;Macromedia;Customer Service;7751.15
+11771;Galvin N. Calderon;57;Apple Systems;Sales and Marketing;3731.84
+38588;Charity I. Green;43;Google;Accounting;4370.62
+86656;Xantha K. Warren;64;Lycos;Finances;4452.93
+42371;Nathaniel Z. Kerr;28;Macromedia;Finances;4749.12
+11808;Ulysses H. Houston;61;Yahoo;Advertising;3671.8
+20249;Mariko B. Mcleod;64;Lycos;Public Relations;7950.27
+16811;Solomon M. Hobbs;25;Finale;Quality Assurance;3953.67
+90200;Xena H. Hawkins;51;Cakewalk;Accounting;8453.15
+67872;Fuller H. Berry;20;Macromedia;Sales and Marketing;8077.63
+22443;Oscar U. Melendez;53;Macromedia;Research and Development;2045.42
+71529;Skyler G. Hicks;32;Altavista;Finances;4448.97
+9736;Lawrence K. Cole;63;Cakewalk;Research and Development;5787.91
+51364;Nerea H. Cox;33;Google;Media Relations;2553.36
+82785;Brynn F. Stokes;46;Macromedia;Research and Development;7944.62
+61942;Darrel C. Mueller;67;Finale;Finances;2124.23
+19664;Irma Z. Lynch;62;Adobe;Asset Management;3214.08
+6527;Farrah V. Merrill;70;Altavista;Sales and Marketing;9977.19
+79340;Dieter Z. Holt;62;Lycos;Research and Development;2492.67
+90846;Florence M. Mcbride;20;Chami;Advertising;2746.16
+10450;Leroy B. Saunders;49;Borland;Payroll;9606.65
+88148;Christopher V. French;28;Finale;Sales and Marketing;6796.27
+86311;Cheyenne K. Craft;30;Lycos;Asset Management;8748.35
+80239;Dominique M. Weaver;49;Yahoo;Customer Service;9429.17
+39249;Colorado T. Duran;18;Google;Human Resources;3082.48
+7342;Brent O. Boone;18;Google;Advertising;7463.08
+51231;Kylan K. Berry;27;Apple Systems;Human Resources;9527
+8965;Fulton Y. Riley;50;Adobe;Quality Assurance;3882.42
+68556;Vanna F. Hinton;32;Cakewalk;Quality Assurance;4614.63
+67995;Fulton X. Herrera;32;Apple Systems;Payroll;6939.94
+47972;Sade M. Spence;69;Adobe;Sales and Marketing;7632.18
+49715;Harrison E. Porter;54;Finale;Public Relations;8522.78
+43134;Lucas W. Tucker;69;Borland;Customer Relations;5089.67
+21524;Juliet W. Langley;38;Altavista;Human Resources;2541.69
+26298;Rama F. Cherry;19;Lycos;Payroll;1186.07
+93386;Cooper C. Hooper;41;Lycos;Finances;9102.6
+3372;Clarke E. Browning;56;Google;Accounting;8683.9
+41791;Kimberly M. Macias;45;Sibelius;Media Relations;8799.3
+23517;Farrah U. Casey;41;Macromedia;Sales and Marketing;4887.33
+87994;Stacey U. Head;64;Apple Systems;Customer Service;2382.82
+52733;Ingrid R. Contreras;25;Lavasoft;Tech Support;2854.82
+6980;Lionel J. Cooper;36;Altavista;Accounting;4799.33
+58771;Donovan H. Alvarez;55;Finale;Tech Support;9553.36
+47294;Myra W. Boyer;36;Microsoft;Human Resources;9925.48
+74596;Regina P. Pratt;33;Altavista;Payroll;5475.61
+82562;Mia I. Pierce;29;Cakewalk;Sales and Marketing;9787.91
+46243;Dawn D. Herring;69;Altavista;Human Resources;4220.5
+45273;Lars O. Steele;28;Macromedia;Research and Development;7797.63
+72193;Drake O. Espinoza;45;Macromedia;Accounting;1173.7
+43303;Ariel K. Garrett;60;Borland;Accounting;2711.81
+72918;Benedict C. Malone;47;Lavasoft;Accounting;4665.72
+23848;Bryar E. Olsen;50;Chami;Quality Assurance;4922.11
+91210;Brielle A. Larson;48;Cakewalk;Research and Development;4778.86
+39440;Kiayada T. Huber;53;Yahoo;Public Relations;2590.85
+17417;Salvador W. Valdez;24;Lavasoft;Customer Service;2434.77
+20808;Cassady G. Dunn;43;Yahoo;Human Resources;7751.14
+85115;Austin M. Young;52;Google;Research and Development;8249.49
+45835;Judah V. Giles;31;Chami;Customer Relations;2058.86
+71684;Shafira W. Carr;66;Google;Customer Relations;5211.41
+82134;Audrey N. Bray;46;Google;Customer Service;9332.65
+69780;Taylor A. Watkins;53;Apple Systems;Finances;9059.96
+55340;Kane X. Barton;40;Yahoo;Finances;1428.95
+67445;Martin N. Patton;39;Borland;Media Relations;2862.45
+18487;Aiko K. Fry;32;Lycos;Sales and Marketing;8999.62
+88966;Darius R. England;40;Lycos;Legal Department;3902.99
+11932;Minerva H. Weaver;32;Lycos;Asset Management;4280.05
+32854;Cheryl T. Ellison;58;Cakewalk;Asset Management;5494.64
+93980;Carter F. Golden;32;Borland;Human Resources;6610.9
+63379;Brandon V. Grimes;29;Lavasoft;Quality Assurance;3293.68
+66182;Guy Q. Hall;53;Adobe;Finances;1256.9
+60043;Conan H. Jensen;53;Cakewalk;Finances;2526.74
+7778;Lavinia W. Campos;45;Borland;Accounting;2356.85
+34044;Nathan R. Fox;61;Macromedia;Customer Service;6912.66
+52993;Zena Z. Guerra;39;Chami;Advertising;1529.1
+42027;Erich L. Watkins;20;Chami;Public Relations;5296.96
+30606;Uma S. England;65;Lavasoft;Research and Development;6152.57
+98053;Lenore L. Copeland;64;Adobe;Advertising;7603.87
+11170;Harlan Z. Key;41;Adobe;Media Relations;5877.09
+72332;Adrian X. Decker;50;Finale;Payroll;1646.07
+64083;Lance I. Gay;32;Google;Accounting;8656.69
+91367;Paki H. Hooper;39;Lycos;Tech Support;1699.35
+52342;Russell B. Reed;57;Apple Systems;Advertising;8710.22
+37825;Mariko T. Spears;67;Altavista;Tech Support;2180.64
+30262;Malachi J. Matthews;44;Sibelius;Customer Relations;5130.11
+3467;Keely G. Rollins;27;Lavasoft;Asset Management;3882.97
+52407;Whilemina N. Kidd;58;Chami;Legal Department;2022.42
+59160;Carolyn P. Torres;70;Lavasoft;Legal Department;8641.68
+50654;Linus I. Greene;53;Microsoft;Customer Service;1034.77
+61363;Herrod B. Mcclain;32;Macromedia;Human Resources;2494.21
+66877;Mark O. Mendoza;32;Apple Systems;Quality Assurance;9023.95
+13539;Felix X. Price;30;Adobe;Tech Support;1205.13
+13161;Yetta X. Hendrix;55;Lycos;Payroll;5756.8
+8916;Stephanie L. Sutton;61;Microsoft;Asset Management;5872.17
+4732;Hunter H. Witt;61;Cakewalk;Media Relations;4636.49
+67693;Sawyer X. Porter;56;Lycos;Human Resources;2766.36
+87084;Timothy H. Cole;26;Altavista;Advertising;8189.78
+83426;Ivor V. Ford;61;Macromedia;Quality Assurance;7904.4
+24479;Jermaine P. Newton;22;Adobe;Public Relations;3541.3
+61262;Noah Z. Everett;63;Macromedia;Legal Department;9880.11
+96976;Iris Z. Ortiz;30;Cakewalk;Accounting;4419.22
+96875;Gray B. Hinton;27;Yahoo;Sales and Marketing;8280
+89532;Aspen O. Rivera;54;Google;Human Resources;3792.64
+5923;Erin D. Tran;51;Cakewalk;Finances;3227.07
+52812;Shelley H. Hendricks;25;Cakewalk;Legal Department;6126.36
+16304;Francis K. Fry;49;Apple Systems;Customer Service;4171.79
+29451;Riley B. Rivers;25;Chami;Payroll;6934.8
+58679;Lael P. Waters;59;Microsoft;Human Resources;7562.98
+72926;Chanda G. Guy;63;Apple Systems;Asset Management;6941.66
+33871;Hamilton Z. Flowers;48;Google;Accounting;5354.91
+23540;Blythe U. Snider;51;Borland;Public Relations;6474.82
+47693;Claudia I. Banks;41;Sibelius;Tech Support;5116.4
+75586;Jemima A. Nelson;43;Macromedia;Customer Relations;6156.86
+48087;Fletcher W. Kemp;41;Apple Systems;Accounting;3431.51
+49212;Megan X. Sutton;41;Apple Systems;Asset Management;8132.1
+4519;Luke N. Mayo;43;Lycos;Public Relations;3372.93
+98383;Lunea O. Sanchez;40;Lavasoft;Research and Development;3255.37
+39742;Steven O. Martin;58;Finale;Payroll;8511.67
+45018;Allegra I. Neal;65;Macromedia;Advertising;8151.56
+2559;Thomas N. Marshall;50;Microsoft;Sales and Marketing;8876.26
+10098;Nichole I. Cook;69;Borland;Media Relations;3476.08
+84636;Jarrod N. Clayton;29;Microsoft;Media Relations;5289.86
+57598;Nero C. Carr;32;Altavista;Quality Assurance;9347.65
+24195;Dean P. Mcguire;34;Finale;Public Relations;3683.66
+96288;Eve T. Gibson;37;Finale;Tech Support;6801.26
+80905;Candice P. Mcpherson;23;Cakewalk;Accounting;6709.03
+20314;Chelsea Y. Mathews;52;Yahoo;Customer Service;1530.57
+17998;Madaline D. Wilcox;69;Yahoo;Accounting;3060.94
+5389;Baxter S. Patel;56;Yahoo;Tech Support;9495.64
+56959;Lev T. Mclaughlin;63;Borland;Customer Relations;1694.9
+79790;Jenette W. Kemp;19;Macromedia;Public Relations;6101.87
+15222;Nadine Q. Manning;38;Cakewalk;Quality Assurance;9311.95
+96943;Xanthus I. Neal;53;Sibelius;Media Relations;1954.46
+81139;Arsenio B. Hodges;51;Cakewalk;Human Resources;5592.71
+99195;Micah B. Hahn;28;Macromedia;Accounting;9730.1
+36306;Hasad M. Morris;34;Apple Systems;Customer Service;4894.39
+70197;Illiana B. Houston;66;Borland;Customer Relations;6896.36
+63166;Liberty N. Velasquez;30;Sibelius;Legal Department;4544.81
+71302;Celeste D. Moss;46;Lavasoft;Public Relations;5586.37
+22594;Nell M. Mullins;30;Finale;Accounting;9963.18
+78057;Calista M. Carrillo;41;Cakewalk;Advertising;6676.1
+98681;Axel B. Gates;20;Lycos;Research and Development;6477.12
+73131;Mannix K. Fowler;66;Google;Quality Assurance;3754.07
+51380;Brenna M. Melendez;46;Yahoo;Tech Support;7150.9
+86798;Vincent E. Merritt;69;Sibelius;Media Relations;6508.93
+24238;Darius D. Jefferson;43;Apple Systems;Quality Assurance;8137.63
+33656;Merritt D. Morrison;31;Adobe;Media Relations;4163.43
+1297;Hilel B. Beck;34;Chami;Accounting;5275.98
+81657;Ralph F. Hardy;32;Borland;Customer Relations;3925.99
+22783;Ashton R. Rivera;58;Finale;Quality Assurance;8556.69
+93470;Virginia U. Harding;23;Lycos;Legal Department;3793.89
+10984;Erica H. Alston;19;Adobe;Advertising;4356.92
+1919;Irma B. Watson;26;Lycos;Payroll;2945.4
+830;Shelby K. Leblanc;55;Sibelius;Human Resources;4586.13
+76846;Jordan Y. Smith;68;Sibelius;Public Relations;1903.22
+45776;Carla A. Mayer;27;Cakewalk;Legal Department;2531.91
+25015;Fleur V. Burton;46;Chami;Finances;9505.71
+40215;Gary S. Witt;43;Finale;Asset Management;7474.73
+18156;Georgia X. Perkins;69;Microsoft;Asset Management;9352.85
+50006;Nadine O. Stephenson;38;Lycos;Quality Assurance;6500.84
+9317;Eliana E. Bradley;63;Cakewalk;Advertising;5243.65
+5756;Fiona J. Mendez;28;Lycos;Human Resources;7955.93
+5801;Amity V. Gray;26;Lavasoft;Payroll;6237.03
+89271;Theodore L. Cardenas;45;Microsoft;Quality Assurance;3826.54
+85560;Carolyn I. Atkinson;55;Lycos;Tech Support;6368.66
+82739;Quintessa K. Harrington;36;Cakewalk;Accounting;8247.96
+73104;Melissa X. Olsen;24;Altavista;Sales and Marketing;1346.6
+68757;Tiger Q. Payne;65;Altavista;Tech Support;3435.46
+74087;Paki H. Tran;42;Chami;Customer Relations;9441.19
+57693;Cole I. Pollard;59;Borland;Research and Development;2382.96
+19212;Boris E. Shaffer;24;Altavista;Quality Assurance;5833.22
+66757;Brenda Y. Wallace;55;Google;Asset Management;8610.48
+15767;Glenna K. Mendoza;66;Altavista;Asset Management;6105
+83483;Kenneth H. Mclean;66;Lavasoft;Media Relations;7953.55
+59511;Brenna R. Duke;29;Microsoft;Quality Assurance;1360.46
+94918;Karly W. Park;66;Finale;Research and Development;5936.66
+58659;Sloane K. Merritt;62;Altavista;Public Relations;5804.98
+39167;Amir V. Ortiz;22;Chami;Finances;3368.03
+70903;Claudia I. Nielsen;59;Finale;Media Relations;1031.13
+71196;Hoyt G. Whitaker;23;Sibelius;Media Relations;1222.47
+25664;Maisie L. Madden;57;Cakewalk;Accounting;9860.66
+23708;Levi K. Tanner;36;Sibelius;Research and Development;1398.61
+84096;Jana E. Crosby;32;Lycos;Research and Development;2267.66
+28672;Megan U. Johnston;52;Chami;Customer Relations;2537.85
+96171;Kaseem X. Hammond;39;Altavista;Tech Support;8592.43
+90710;Xenos S. Bartlett;54;Altavista;Legal Department;3689.96
+69865;Charles Q. England;49;Apple Systems;Accounting;2751.02
+34146;Lucy O. Dean;42;Sibelius;Accounting;9168.41
+35126;Tarik V. Gaines;52;Yahoo;Advertising;3531.53
+58524;Rana O. Walker;70;Apple Systems;Finances;3829.47
+18899;Sybil K. May;37;Apple Systems;Legal Department;6555.22
+59824;Yael Z. Bush;30;Sibelius;Public Relations;5128.75
+12521;Wade M. Irwin;61;Macromedia;Human Resources;5268.42
+71327;Vera A. Johnston;25;Adobe;Media Relations;2573.47
+17536;Joshua U. Welch;58;Lycos;Research and Development;5793.7
+89267;Carolyn S. Crosby;20;Macromedia;Public Relations;3720.47
+66052;Ginger A. Spence;61;Chami;Payroll;6858
+37441;Evan O. Dalton;64;Lavasoft;Research and Development;1227.58
+19907;Kalia R. West;22;Sibelius;Accounting;1246.65
+31457;Ulysses B. Chandler;43;Yahoo;Tech Support;4172.73
+23235;Sylvia P. Odonnell;56;Apple Systems;Customer Relations;7611.63
+82016;Nero G. Browning;39;Cakewalk;Asset Management;4018.33
+62606;Harlan R. Estrada;21;Adobe;Customer Service;4796.09
+86952;Azalia W. Carney;21;Yahoo;Sales and Marketing;6270.52
+98556;Isabella I. Bryant;49;Chami;Finances;3658.98
+88174;Daryl T. Thompson;69;Lycos;Tech Support;4447.51
+35676;Brenda T. Decker;50;Adobe;Research and Development;6150.98
+63040;Channing T. Gordon;31;Altavista;Customer Service;1014.81
+18112;Uriah A. Gentry;35;Google;Accounting;1319.81
+60366;Maite R. Quinn;31;Altavista;Tech Support;5062.45
+83946;Deanna T. Schwartz;66;Borland;Tech Support;1875.42
+7717;Fitzgerald N. Quinn;43;Apple Systems;Legal Department;7647.03
+55882;Aidan G. Koch;45;Macromedia;Human Resources;9733.64
+98342;Maya W. Lyons;31;Cakewalk;Media Relations;5963.93
+23334;April F. Knapp;69;Yahoo;Research and Development;9080.94
+94958;Mollie B. Booth;38;Lavasoft;Human Resources;9640.41
+851;Freya D. Cotton;49;Google;Customer Service;3479.39
+73692;Melinda P. Miller;20;Finale;Asset Management;5447.34
+52481;Nasim V. Rutledge;42;Microsoft;Advertising;2639.85
+17523;Bernard O. Benjamin;52;Lycos;Finances;7334.92
+63144;Ralph M. Norton;47;Altavista;Customer Relations;9760.88
+87516;Chastity L. Coleman;57;Microsoft;Tech Support;9356.67
+47472;Mark N. Whitley;65;Chami;Accounting;9918.33
+72886;Whitney R. Sweet;66;Microsoft;Payroll;6139.13
+36252;Gloria N. Brown;29;Lavasoft;Accounting;6881
+58985;Zephr G. Jenkins;23;Finale;Legal Department;3798.18
+36349;Dawn R. Ross;55;Chami;Human Resources;1455.81
+68887;Colin S. Weaver;32;Chami;Customer Service;6414.04
+74602;Madonna C. Small;55;Sibelius;Legal Department;5185.56
+58251;Macon A. Pugh;49;Borland;Sales and Marketing;7031.44
+43974;Laith G. Reynolds;46;Lycos;Quality Assurance;5109.21
+23981;Gavin J. Larson;34;Borland;Payroll;1482.94
+53040;Deborah J. Estrada;21;Apple Systems;Asset Management;5550.73
+85746;Megan R. Weber;70;Finale;Finances;3320.22
+72505;Jelani L. Chen;21;Sibelius;Tech Support;3353.27
+52606;Colin I. Garcia;37;Lavasoft;Customer Relations;7871.95
+77081;Lev P. Conrad;55;Cakewalk;Payroll;1704.42
+35948;Chase W. Bender;30;Lavasoft;Legal Department;5442.49
+17715;Aphrodite F. Castro;46;Borland;Asset Management;1086.86
+87394;Ariel H. Wilkins;54;Microsoft;Asset Management;5323.06
+78834;Phyllis G. Hoffman;52;Macromedia;Legal Department;9404.27
+53783;Lani C. Reilly;55;Apple Systems;Finances;3600.53
+40672;Shafira X. Holman;47;Altavista;Sales and Marketing;4897.74
+603;Chelsea N. Franklin;57;Cakewalk;Payroll;5103.9
+57631;Xanthus M. David;64;Microsoft;Asset Management;6400.62
+86741;Emma K. Roberts;68;Cakewalk;Asset Management;4704.22
+80860;Yuri E. Hurley;18;Apple Systems;Sales and Marketing;2088.25
+92721;Jack S. Reese;49;Lycos;Sales and Marketing;5199.47
+91064;Garrett E. Wells;42;Lycos;Customer Relations;3154.36
+39119;Nerea G. Valencia;68;Yahoo;Advertising;1326.82
+49189;Ralph X. Hunt;67;Finale;Customer Relations;7617.5
+66618;Germane R. Barlow;27;Google;Accounting;4978.48
+6999;Solomon K. Mckay;58;Adobe;Quality Assurance;2267.31
+82579;Uriah E. Obrien;19;Lycos;Tech Support;4534.88
+95995;Yael S. Lloyd;26;Borland;Tech Support;3177.53
+68206;Oren Y. Lancaster;29;Chami;Payroll;6347.84
+7728;Leah V. Avila;49;Finale;Research and Development;9674.38
+58670;Shelley N. Sosa;21;Google;Customer Relations;5779.72
+95396;Adrienne O. Church;27;Google;Research and Development;4563.14
+26189;Florence V. Charles;25;Borland;Legal Department;8582.82
+45377;Adena N. Burnett;28;Apple Systems;Advertising;5787.89
+67054;Kenyon T. Buckner;24;Sibelius;Tech Support;7287.93
+88750;Abbot K. Bryan;21;Borland;Tech Support;2469.77
+43642;Lareina C. Farmer;49;Microsoft;Quality Assurance;7513.37
+74964;Yoko K. Miranda;42;Microsoft;Payroll;7956.15
+41632;Brady H. Ramos;61;Cakewalk;Quality Assurance;6165.11
+42169;Malachi R. Rodgers;43;Apple Systems;Customer Service;7571.41
+21757;Felicia J. Thompson;21;Apple Systems;Media Relations;3230.82
+5460;Finn E. Gallagher;42;Macromedia;Legal Department;9668.23
+68371;Lani J. Kim;65;Lavasoft;Finances;4884.28
+72305;Lev I. Glass;20;Altavista;Sales and Marketing;6722.57
+89619;Tiger G. Deleon;61;Apple Systems;Public Relations;6978.35
+29857;Jane X. Jimenez;61;Apple Systems;Tech Support;5808.01
+96094;Xantha P. Bell;31;Cakewalk;Customer Relations;9784.44
+4806;Merrill S. Winters;42;Apple Systems;Tech Support;6207.66
+26043;Yolanda R. Guzman;20;Lavasoft;Accounting;3500.33
+97768;Zachary E. Suarez;34;Macromedia;Accounting;6293.33
+33806;Carl X. Munoz;65;Adobe;Sales and Marketing;2524.78
+34419;Galena U. Guy;42;Altavista;Media Relations;2540.94
+64155;Kelly M. Jacobson;24;Adobe;Advertising;7183.87
+33623;Carl K. Howard;37;Sibelius;Human Resources;5340.63
+98438;Danielle J. Holder;65;Apple Systems;Media Relations;3641.87
+7807;Nichole Q. Dickson;30;Cakewalk;Payroll;3234.01
+37932;Chastity B. Sanchez;62;Lycos;Advertising;2020.7
+72800;Vivian Z. Clay;51;Cakewalk;Finances;9821.04
+17494;Kirsten Z. Houston;44;Adobe;Research and Development;6370.66
+41313;Alexa H. Scott;39;Lavasoft;Accounting;6656.53
+73977;Danielle Z. Harper;28;Lycos;Asset Management;7850.26
+10080;Echo S. Medina;50;Apple Systems;Human Resources;9895.14
+79306;Mari Q. Guerrero;51;Borland;Research and Development;5175.09
+9080;Quentin G. Ayala;37;Sibelius;Advertising;7797.44
+95291;Christian F. Harper;34;Google;Payroll;2805.16
+76994;Caryn M. Griffin;62;Google;Public Relations;8970.85
+22061;Elaine B. Downs;28;Cakewalk;Research and Development;8201.41
+42289;Allen N. Levy;29;Macromedia;Human Resources;1622.01
+3629;Benedict A. Velasquez;28;Macromedia;Public Relations;1621.73
+70071;Dahlia B. Raymond;49;Macromedia;Payroll;1135.78
+44320;Ezra V. Moody;67;Borland;Customer Service;9179.57
+42314;Sheila H. Burnett;32;Apple Systems;Asset Management;7860.29
+21144;Lareina E. Acosta;40;Lavasoft;Quality Assurance;3441.06
+80131;Sybill V. Christensen;60;Sibelius;Finances;3120.86
+25377;Jena D. Gay;22;Finale;Human Resources;5250.85
+48813;Xavier F. Winters;45;Microsoft;Customer Service;1213.48
+70817;Dominic I. Williams;60;Borland;Customer Relations;2585.48
+39918;Remedios N. Dorsey;60;Lavasoft;Human Resources;3086.71
+99745;Dexter A. Lindsey;61;Altavista;Advertising;5618.23
+48193;Hannah Z. Kane;51;Yahoo;Customer Service;3577.45
+93305;Logan U. Bender;22;Lycos;Advertising;3978.48
+57892;Jasper O. Stein;52;Sibelius;Accounting;3884.35
+60082;Lila F. Puckett;37;Lycos;Media Relations;4213.21
+64120;Jarrod Q. Powell;52;Macromedia;Finances;4876.91
+4999;Emerald K. Rodriquez;21;Google;Customer Relations;4543.84
+7970;Natalie Y. Hyde;63;Sibelius;Research and Development;7594.86
+15190;Grant M. Mcintosh;22;Finale;Quality Assurance;5199.65
+38073;Wylie I. Davidson;52;Apple Systems;Media Relations;1440.5
+71693;Emmanuel S. Hayes;69;Finale;Finances;3497.98
+30102;Naida U. Walton;31;Apple Systems;Tech Support;5770.32
+55598;Berk C. Stokes;30;Macromedia;Sales and Marketing;8174.35
+99858;Perry H. Koch;18;Microsoft;Asset Management;1591.11
+61645;Lael H. Hayden;51;Finale;Public Relations;8590.62
+63092;Iris P. Glass;45;Yahoo;Human Resources;5927.71
+13235;Dawn V. Collins;42;Lavasoft;Customer Service;6359.87
+3829;Tiger C. Barron;21;Finale;Asset Management;6901.53
+61668;Farrah A. Berry;39;Sibelius;Human Resources;2670.67
+18109;Dale K. Richmond;25;Adobe;Public Relations;6736.48
+64606;Xaviera S. Yang;40;Google;Customer Service;7179.41
+96098;Akeem C. Shaffer;67;Cakewalk;Payroll;1823.85
+44404;Shana A. Melton;37;Altavista;Media Relations;8264.82
+6148;George E. Dalton;32;Adobe;Advertising;2076.32
+59174;Ignatius G. Oneil;43;Sibelius;Advertising;4578.68
+87077;Marny I. Tate;31;Lavasoft;Human Resources;4231.92
+19713;Conan F. Stanley;53;Altavista;Finances;7091.02
+13098;Jena X. Durham;21;Borland;Payroll;6033.19
+32717;Ruby Y. Hobbs;57;Finale;Research and Development;6628.53
+11995;Jackson V. Brooks;61;Finale;Finances;1957.27
+33780;Brennan N. Gibbs;35;Borland;Research and Development;2631.74
+77852;Amery W. Mack;65;Adobe;Tech Support;3654.75
+71927;Randall Z. Joseph;35;Borland;Customer Relations;1474.85
+54901;Celeste D. Giles;47;Yahoo;Human Resources;7043.41
+20305;Quinn M. Bauer;48;Borland;Quality Assurance;8735.45
+47175;Yvette M. Hammond;33;Google;Research and Development;8218.26
+18001;Barry L. Bolton;49;Apple Systems;Legal Department;2322.81
+77885;Xaviera F. Morin;44;Apple Systems;Advertising;3154.18
+70644;Amal F. Evans;55;Adobe;Customer Service;5075.02
+83931;Breanna G. Shannon;57;Lavasoft;Accounting;5300.38
+54873;Tashya J. Phillips;47;Macromedia;Public Relations;9805.12
+83087;Arthur H. Dudley;19;Cakewalk;Media Relations;1851.55
+81508;Shellie U. Wilson;18;Macromedia;Quality Assurance;6351.59
+29074;Cooper B. Richard;56;Macromedia;Payroll;8999.44
+98600;Dexter R. Oneal;31;Google;Public Relations;9123.56
+19186;MacKensie Z. Bradford;61;Cakewalk;Accounting;2098.15
+76282;Addison B. Craig;23;Adobe;Legal Department;1202.04
+23800;Simon N. Reeves;45;Yahoo;Customer Relations;8493.6
+79591;Armando Q. Dudley;43;Altavista;Public Relations;6391.93
+16081;Alec G. Nicholson;65;Lavasoft;Payroll;8958.86
+10249;Tanya C. Humphrey;66;Cakewalk;Advertising;3909.35
+30008;Holmes Q. Jimenez;22;Lavasoft;Public Relations;6449.03
+18914;Norman D. Giles;33;Borland;Quality Assurance;7722.12
+86900;Ingrid C. Nunez;35;Lavasoft;Customer Service;3890.42
+92258;Phelan U. Delacruz;27;Finale;Asset Management;1427.93
+28714;Delilah G. Knox;61;Finale;Sales and Marketing;1758.08
+37516;Miriam C. May;36;Finale;Customer Relations;4436.97
+27716;Tasha Q. Meadows;52;Altavista;Legal Department;8499.74
+45177;Guy P. Robles;66;Chami;Customer Relations;3803.21
+97840;Zeus F. Daniels;18;Apple Systems;Legal Department;4085.45
+51405;Cadman K. Moss;18;Cakewalk;Asset Management;4381.95
+51061;Gannon M. Willis;49;Chami;Advertising;9321.23
+46596;Maya X. King;63;Adobe;Media Relations;3511.66
+86845;Burton M. Padilla;20;Adobe;Sales and Marketing;3681.12
+54130;Harper X. Drake;20;Google;Customer Relations;9002.65
+42853;Miriam Z. Francis;30;Yahoo;Advertising;2522.02
+2043;Lois D. Reynolds;28;Chami;Media Relations;2705.7
+34642;Blythe J. Savage;22;Yahoo;Legal Department;7792.94
+51906;Caryn N. Lester;28;Chami;Legal Department;5898.21
+37368;Lilah B. Jacobson;26;Altavista;Public Relations;1838.69
+55530;Xanthus D. Church;43;Apple Systems;Quality Assurance;3521.42
+69384;Aspen H. Wall;46;Macromedia;Research and Development;9198.37
+11945;Martena S. Byers;50;Cakewalk;Advertising;2535.71
+34283;Abdul X. Vinson;24;Macromedia;Tech Support;6664.61
+18075;Avye B. Huff;56;Lavasoft;Tech Support;3299.51
+11400;Adena N. Velazquez;56;Microsoft;Finances;9098.57
+77965;Zorita K. Mcneil;58;Borland;Payroll;9785.24
+89147;Todd P. Parsons;70;Apple Systems;Quality Assurance;6742.97
+53009;Hu H. Holmes;53;Lavasoft;Finances;3412.04
+4934;Quentin G. Frazier;68;Sibelius;Research and Development;3352.25
+77828;Allistair Z. Savage;23;Sibelius;Payroll;3958.91
+61107;Owen Z. Mccray;54;Macromedia;Sales and Marketing;8190.76
+57183;Shaeleigh P. Brooks;26;Altavista;Advertising;9325.32
+98467;Deanna S. Livingston;54;Microsoft;Payroll;9281.37
+71181;Sylvia G. Oliver;50;Adobe;Customer Relations;6789.88
+85356;Christen N. French;50;Macromedia;Finances;3069.71
+94590;Patience P. Bean;23;Lycos;Quality Assurance;4812.18
+54554;Shana Y. George;53;Yahoo;Accounting;7629.52
+4414;Brielle U. York;60;Adobe;Customer Service;9531.42
+41124;Brielle F. Hunter;40;Macromedia;Legal Department;9769.48
+81175;Amy J. Moody;69;Lavasoft;Accounting;7287.24
+91127;Hermione G. Weeks;55;Microsoft;Legal Department;3229.06
+26802;Forrest N. Barnett;70;Cakewalk;Accounting;5056.42
+38470;Arsenio C. Beasley;46;Google;Customer Service;9330.91
+5669;Felicia N. Moss;20;Macromedia;Legal Department;4864.51
+97394;Lesley H. Vaughan;56;Chami;Media Relations;4415.81
+82145;Gannon S. Rose;47;Chami;Sales and Marketing;4313.61
+81494;Lars A. Burt;55;Borland;Public Relations;8753.85
+91954;Cullen K. Shepard;20;Altavista;Tech Support;4791.23
+42555;Sylvia R. Garrison;34;Apple Systems;Sales and Marketing;6936.98
+6088;Slade N. Beard;26;Adobe;Quality Assurance;4572.5
+48984;Deirdre C. Sharp;67;Microsoft;Customer Relations;7882.34
+87756;Deacon T. Blankenship;48;Microsoft;Asset Management;6946.67
+66101;Jane W. Beach;70;Lycos;Public Relations;1165.24
+75457;Lysandra Z. Stokes;22;Google;Human Resources;7663.47
+64876;Adrian C. Frank;62;Finale;Finances;4979.65
+50191;Elaine F. Paul;37;Sibelius;Legal Department;2232.3
+55024;Inez Q. King;67;Cakewalk;Accounting;9482.02
+48288;Jane U. Dunlap;30;Sibelius;Customer Service;6371.64
+65562;Declan W. Acevedo;28;Apple Systems;Media Relations;6050.4
+32687;Jeanette S. Hart;63;Finale;Media Relations;8047.45
+67856;Jolie B. Carey;23;Finale;Media Relations;5738.52
+76728;Jack W. Mcpherson;49;Cakewalk;Media Relations;6874.53
+80221;Nayda J. Shepard;52;Finale;Advertising;1493.55
+48896;Evangeline H. Martinez;38;Borland;Accounting;7222.8
+73732;Kennan C. Schneider;21;Google;Accounting;3726.47
+7561;Quinn B. Snider;56;Finale;Tech Support;3324.33
+72998;Miriam G. Mccall;24;Lavasoft;Media Relations;3636.66
+21850;Brianna Y. Rogers;19;Cakewalk;Asset Management;6251.69
+66442;Austin H. Bowers;45;Chami;Sales and Marketing;3400.47
+52917;Keiko P. Kaufman;58;Borland;Research and Development;8585.01
+42721;Buckminster X. Dickerson;46;Yahoo;Public Relations;2340.7
+1327;Chelsea B. Johnston;40;Microsoft;Research and Development;7903.38
+66294;Leigh F. Lara;64;Lycos;Media Relations;6783.96
+7110;Kiona R. Whitley;30;Altavista;Accounting;6799.41
+74480;Ayanna X. Hernandez;68;Yahoo;Customer Service;4137.66
+82159;Simone A. Newton;67;Apple Systems;Accounting;3202.74
+93602;Audra X. Robles;69;Lycos;Customer Service;6280.61
+3633;Ila Q. Ingram;55;Sibelius;Accounting;6738.34
+13208;Joy R. Burks;24;Apple Systems;Accounting;1887.5
+29540;Nina U. Irwin;34;Macromedia;Quality Assurance;1704.86
+16142;Emerald G. Ayers;20;Adobe;Accounting;2728.33
+39907;Heather F. Barnes;37;Microsoft;Research and Development;3470.16
+57233;Diana A. Love;42;Lycos;Finances;2314.27
+63718;Fay B. Mack;62;Yahoo;Payroll;7818.27
+52079;Ella H. Gomez;48;Sibelius;Public Relations;2318.8
+68658;Owen E. Vincent;47;Altavista;Human Resources;4917.47
+52122;Chester G. Walker;56;Google;Customer Relations;7447.75
+34857;Wynne I. Vega;68;Yahoo;Payroll;2740.88
+93714;Gillian N. Sweeney;63;Macromedia;Public Relations;2484.61
+184;Griffin Z. Randolph;25;Yahoo;Legal Department;7968.06
+3331;Veda C. Crosby;22;Borland;Payroll;6897.83
+10898;Avye L. Dodson;38;Sibelius;Sales and Marketing;4233.83
+13318;Harlan M. Solomon;59;Yahoo;Customer Relations;2908.46
+93900;Steven T. Meyer;31;Macromedia;Payroll;7894.23
+10295;Nolan M. Rodgers;62;Google;Media Relations;6144.28
+4784;Lane V. Sandoval;35;Sibelius;Finances;3419.4
+93283;Drake Y. Blair;53;Sibelius;Accounting;9721.79
+31469;Lana I. Carver;64;Lycos;Customer Service;6010.01
+76867;Belle D. Stokes;43;Altavista;Quality Assurance;3442.62
+75055;Melvin G. Jenkins;30;Adobe;Human Resources;7437.77
+82131;Macon I. Boone;25;Adobe;Human Resources;9667.6
+29779;Katell J. Villarreal;20;Macromedia;Advertising;4431.74
+50306;Bo O. Chaney;31;Borland;Customer Service;8993.24
+44685;Kelsey P. Britt;68;Chami;Payroll;9045.28
+6813;Kelly V. Juarez;70;Yahoo;Payroll;1611.65
+56309;Quinn I. Barnett;36;Yahoo;Finances;1108.02
+64988;Ori G. Roy;27;Sibelius;Advertising;9032.9
+21854;Henry U. Baldwin;26;Lavasoft;Payroll;8337.67
+85699;Haviva X. Stein;46;Cakewalk;Customer Relations;2902.63
+96074;Hope L. Kaufman;28;Lavasoft;Public Relations;8594.9
+34082;Brett V. Neal;58;Adobe;Finances;1771.24
+15955;Vladimir K. Bird;25;Macromedia;Human Resources;7841.15
+44877;Brenden F. Webster;48;Yahoo;Media Relations;3448.05
+27778;Shaine R. Price;20;Lycos;Accounting;6471.82
+53663;Delilah N. Vance;29;Cakewalk;Human Resources;4838.88
+4795;Amelia X. Case;25;Lavasoft;Advertising;1321.48
+64020;Evan C. Newman;29;Sibelius;Research and Development;3235.28
+98295;Clarke V. Burgess;61;Borland;Sales and Marketing;9149.08
+3936;Sonya L. Chase;63;Google;Payroll;3901.69
+4421;Fredericka R. Frost;40;Microsoft;Asset Management;1603.29
+25665;Ishmael U. Pace;20;Adobe;Human Resources;3412.24
+89019;Nasim Q. Humphrey;20;Google;Media Relations;9876.54
+44435;Arthur I. Norris;42;Apple Systems;Research and Development;6628.8
+77265;Hoyt F. Beard;56;Yahoo;Human Resources;6485.17
+18769;Robert H. Hutchinson;55;Cakewalk;Human Resources;5695.03
+21351;Lance P. Dejesus;43;Chami;Tech Support;5382.41
+12115;Basia B. Kramer;19;Google;Payroll;5095.51
+32491;Anastasia K. Sparks;47;Borland;Advertising;9661.19
+3197;Dustin Z. Vega;65;Apple Systems;Payroll;1772.58
+78402;Christopher J. Gallagher;37;Yahoo;Customer Service;7201.71
+88734;Kirby Q. Booth;54;Sibelius;Asset Management;4515.28
+93224;Blaze Y. Bond;50;Lavasoft;Research and Development;5140.67
+31884;Adrian Y. Payne;70;Yahoo;Quality Assurance;7615.42
+61696;Henry E. Anthony;36;Altavista;Accounting;5088.29
+86436;Imogene K. Owens;46;Cakewalk;Research and Development;8527.67
+91791;Kenneth W. Lindsay;66;Apple Systems;Media Relations;1718.18
+28250;Whilemina G. Blake;25;Microsoft;Sales and Marketing;1144.1
+44727;Raja M. Ewing;57;Cakewalk;Payroll;9063.48
+92120;Erica Y. Wagner;18;Altavista;Finances;7979.85
+13351;Rebekah A. Armstrong;68;Finale;Legal Department;1277.92
+38683;Hu D. Snider;56;Google;Accounting;6562.89
+64672;Cassady N. Hull;23;Chami;Accounting;2382.23
+8079;Raven A. Terrell;41;Microsoft;Human Resources;6760.27
+80831;Conan Y. Frank;44;Finale;Finances;2901.75
+44142;Lucian T. Dickson;37;Borland;Customer Relations;8294.46
+90225;Preston H. Deleon;66;Lycos;Public Relations;1381.9
+29375;Silas E. Baxter;64;Borland;Asset Management;6701.73
+30753;Portia Y. Tyson;33;Altavista;Customer Service;3554.93
+81896;Slade L. Michael;19;Borland;Advertising;7061.82
+45479;Tatyana K. Baker;64;Yahoo;Accounting;8790.82
+42733;Hashim F. Robertson;24;Chami;Sales and Marketing;6357.78
+23965;Lacy Z. Mcleod;33;Yahoo;Human Resources;1944.95
+52892;Abdul M. Melendez;59;Lavasoft;Tech Support;6132.16
+49727;Ivory Z. Silva;43;Borland;Research and Development;4439.79
+47106;Sawyer B. Bradley;36;Sibelius;Research and Development;2362.54
+72607;Brett O. Mcclain;50;Cakewalk;Human Resources;4167.36
+6818;Amena W. Benton;24;Borland;Quality Assurance;4228.66
+92780;Marah L. Sullivan;42;Lavasoft;Quality Assurance;4486.06
+94915;Judah P. Fleming;52;Sibelius;Quality Assurance;4821.25
+25548;Lara R. Wolf;56;Borland;Quality Assurance;7184.62
+75716;Timothy P. King;32;Apple Systems;Sales and Marketing;5096.21
+53613;Abel R. Burt;48;Lycos;Finances;6369.8
+51177;Nolan D. Walker;38;Lavasoft;Quality Assurance;2002.03
+60587;Griffin S. Wise;68;Lavasoft;Asset Management;8133.38
+19854;Carol R. Ward;52;Google;Payroll;2135.31
+76119;Cruz L. Tyson;53;Lavasoft;Advertising;4678.83
+78871;Rafael N. Meyer;30;Cakewalk;Finances;6757.47
+7428;Zeph B. Raymond;35;Cakewalk;Customer Relations;7883.52
+94659;Paki C. Herring;18;Macromedia;Human Resources;8752.18
+57228;Brenna G. Hull;21;Apple Systems;Asset Management;2687.17
+11719;Germane G. Graves;61;Adobe;Tech Support;6709.45
+16933;Alexandra K. Noel;51;Apple Systems;Public Relations;3237.93
+89460;Serena V. Frederick;63;Adobe;Sales and Marketing;2829.51
+79476;Orson S. Carter;48;Chami;Asset Management;5568.19
+52586;Pearl F. Henderson;22;Borland;Research and Development;5139.19
+45714;Jacqueline M. Bishop;52;Altavista;Media Relations;1903.36
+99552;Melyssa J. Webb;53;Altavista;Public Relations;8354.87
+92134;Leslie N. Mejia;55;Macromedia;Payroll;6658.72
+29086;McKenzie X. Adams;41;Cakewalk;Media Relations;2577.47
+35278;Brynne Z. Stout;64;Google;Customer Relations;7702.85
+49849;Vielka V. Delaney;64;Lavasoft;Accounting;6524.4
+68495;Addison O. Dean;33;Macromedia;Payroll;6866.07
+37515;Arthur K. Young;62;Macromedia;Customer Relations;3848.05
+89557;Ulric W. Jenkins;22;Yahoo;Media Relations;4356.56
+44715;Fitzgerald A. Dejesus;43;Yahoo;Accounting;7685.53
+34200;Quintessa L. Barber;43;Macromedia;Payroll;3751.19
+54332;Marny L. Ellison;19;Lycos;Quality Assurance;7693.85
+44071;Jennifer Z. Horne;60;Google;Media Relations;2942.11
+32015;Phoebe M. Mckee;18;Lavasoft;Finances;7292.69
+68761;Jescie X. Hull;35;Borland;Accounting;5601.24
+44646;Galena O. Bonner;41;Lavasoft;Advertising;2373.52
+55700;Montana W. Cabrera;33;Apple Systems;Finances;7570.38
+77890;Eve R. Russo;30;Sibelius;Sales and Marketing;3797.3
+41132;Grady A. Hood;58;Microsoft;Research and Development;9359.49
+81169;Germaine X. Cantrell;34;Apple Systems;Accounting;7621.26
+71580;Marny W. Case;56;Lavasoft;Asset Management;8511.77
+22886;Bell Y. Berger;28;Google;Advertising;7512.6
+58039;Heidi N. Gross;23;Cakewalk;Accounting;4443.06
+8026;Edward F. Mcfadden;21;Apple Systems;Legal Department;3485.95
+52289;Audrey T. Bowen;35;Google;Legal Department;6512.69
+66224;Ira M. Tanner;41;Sibelius;Legal Department;6619.17
+13796;Cody L. Wise;41;Finale;Customer Relations;2253.33
+83674;Thaddeus W. Thornton;56;Google;Asset Management;4145.65
+4448;Mary I. Jefferson;44;Sibelius;Media Relations;8045.96
+48353;Sydney F. Bullock;62;Lavasoft;Media Relations;1031.68
+37636;Howard H. Vincent;19;Lycos;Quality Assurance;6302.31
+36500;Riley A. Fulton;47;Lycos;Tech Support;9759.12
+4013;Sylvester Y. Walsh;21;Borland;Tech Support;4070.94
+44261;Harding G. Skinner;27;Sibelius;Quality Assurance;9856.69
+68412;Belle L. Key;54;Borland;Tech Support;2997.86
+36596;Jameson L. Hooper;44;Lycos;Customer Service;1413.76
+13740;Quynn R. Romero;70;Yahoo;Payroll;5396.66
+59285;Casey W. Wood;21;Lycos;Payroll;6747.96
+68588;Trevor X. Rush;46;Apple Systems;Accounting;9726.65
+21374;Blossom Q. Bowers;63;Google;Customer Service;7206.58
+7375;Macey A. Logan;64;Borland;Payroll;5002.7
+20405;Farrah Q. Sweeney;33;Lycos;Public Relations;8388.83
+55010;Hermione O. Mcknight;40;Yahoo;Public Relations;8017.77
+21744;Sonya H. Sweeney;27;Lavasoft;Finances;1196.53
+96879;Leah P. Lloyd;41;Microsoft;Accounting;9195.51
+68838;Jaquelyn P. Joyner;59;Lavasoft;Human Resources;9123.37
+29677;Marsden O. Stark;28;Apple Systems;Accounting;1057.54
+50908;Kathleen N. Boone;30;Cakewalk;Advertising;1712.24
+71456;Kaitlin Q. Frederick;26;Chami;Human Resources;2974.51
+3354;Serina S. Strickland;44;Chami;Quality Assurance;2789.95
+18365;Joel U. Hurst;35;Microsoft;Research and Development;5151.17
+204;Margaret A. Walker;33;Borland;Advertising;5777.11
+17023;Dolan F. Estes;29;Yahoo;Quality Assurance;4688.09
+77583;Beck M. Deleon;55;Borland;Legal Department;9650.45
+46987;Suki N. Moss;38;Sibelius;Tech Support;5519.53
+17138;Jayme G. Garner;62;Lavasoft;Customer Service;2722.62
+33236;Price G. Langley;23;Apple Systems;Advertising;8184.3
+99190;Honorato G. Bird;25;Sibelius;Quality Assurance;9304.51
+52658;Delilah R. Waters;49;Altavista;Public Relations;7484.46
+89319;Mariko Y. Osborne;31;Chami;Customer Relations;9333.53
+55082;Stephen O. Browning;40;Chami;Legal Department;7294.73
+35797;Russell U. Singleton;25;Google;Accounting;6284.33
+32457;Hadley C. Parsons;18;Finale;Research and Development;2755.47
+55338;Nicholas W. Cooley;69;Apple Systems;Research and Development;2057.14
+56260;Carter K. Rosales;22;Chami;Tech Support;7664.72
+31745;Magee N. Mays;51;Apple Systems;Legal Department;6620.85
+79891;Xaviera F. Howell;58;Macromedia;Customer Relations;3427.15
+217;Lewis X. Harrington;55;Borland;Sales and Marketing;2352.97
+99570;Fallon T. Blair;43;Chami;Tech Support;8942.94
+21802;Kadeem O. Alexander;60;Microsoft;Advertising;6066.49
+44619;Whitney Z. Curry;23;Lycos;Tech Support;4309.62
+23190;Gil T. Charles;18;Apple Systems;Legal Department;5235.95
+96340;Levi H. Cantu;50;Cakewalk;Customer Service;5103.06
+84711;Illiana Q. Kerr;28;Microsoft;Tech Support;2397.93
+79049;Rudyard M. Calderon;69;Macromedia;Public Relations;1496.03
+70471;Ava O. Townsend;37;Sibelius;Human Resources;6272.66
+10307;Wendy O. Mcknight;22;Adobe;Payroll;3350.19
+92953;Axel D. Brennan;49;Yahoo;Advertising;2284.96
+90568;Jasper S. Morgan;44;Google;Human Resources;2555.27
+69222;Kennan X. Garrison;47;Lycos;Sales and Marketing;2791.01
+66264;Norman U. Evans;55;Lavasoft;Media Relations;7180.24
+30545;Anastasia W. Brady;70;Borland;Asset Management;1999.76
+42465;Caleb H. Christian;45;Lycos;Asset Management;8693.53
+1699;Kirsten N. Bass;22;Lavasoft;Payroll;9585.11
+55138;Erica E. Sweeney;39;Altavista;Public Relations;7980.52
+71861;Catherine R. Henry;68;Borland;Customer Service;1646.07
+14118;Kyla H. Parker;70;Adobe;Finances;9178.66
+10674;Ocean I. Duncan;46;Cakewalk;Research and Development;1843.45
+78511;Charles W. Dale;65;Apple Systems;Advertising;7870.86
+8213;Holmes D. Meyer;22;Sibelius;Public Relations;7632.86
+65818;Tatyana F. Henry;37;Finale;Finances;8976.9
+15787;Alice W. Dawson;57;Adobe;Advertising;4982.89
+61102;Minerva W. Wright;48;Lycos;Media Relations;5094.96
+61920;Cole I. Lopez;21;Lavasoft;Asset Management;6304.63
+33681;Noel A. Bryant;57;Lycos;Human Resources;6706.57
+71251;Leonard B. Lindsey;66;Cakewalk;Customer Relations;5616.9
+58474;Edan N. Lindsay;18;Lycos;Sales and Marketing;7733.83
+71421;Oleg H. Tanner;23;Apple Systems;Tech Support;8260.98
+61549;Yoshi G. Carter;51;Yahoo;Accounting;8199.38
+12031;Zeus I. Beasley;59;Apple Systems;Customer Service;9824.75
+55765;Caleb F. Downs;61;Chami;Customer Service;4700.14
+82005;Bruce R. Bernard;29;Microsoft;Sales and Marketing;3699.01
+30415;Lunea D. Blackwell;47;Apple Systems;Media Relations;5837.99
+19679;Tamara C. David;62;Apple Systems;Research and Development;1260.04
+36359;Serena V. Espinoza;34;Lavasoft;Sales and Marketing;4337.16
+59773;Nathaniel B. Pollard;40;Chami;Legal Department;1518.72
+70866;Desiree K. Hendrix;46;Macromedia;Sales and Marketing;6468.82
+67911;Elizabeth M. Hensley;51;Lycos;Public Relations;7894.11
+10437;Justin U. Parsons;57;Macromedia;Research and Development;6979.93
+7144;Aristotle C. Russell;39;Macromedia;Human Resources;4666.76
+13889;Julian R. Espinoza;56;Yahoo;Quality Assurance;6698.17
+54530;Jasper S. Mathis;22;Google;Public Relations;3986.37
+90507;Amela J. Rosales;43;Lavasoft;Asset Management;8387.05
+10378;Elijah S. Henry;20;Sibelius;Finances;3338.76
+36433;Richard D. Knowles;34;Finale;Advertising;6167.26
+80397;Yeo G. Mullins;53;Microsoft;Public Relations;8069.29
+86291;Kenneth B. Merrill;62;Apple Systems;Tech Support;6123.19
+85537;Honorato M. Lloyd;31;Adobe;Finances;4071.89
+37579;Ignacia J. Booth;37;Finale;Quality Assurance;1023.17
+49673;Thaddeus M. Willis;59;Macromedia;Public Relations;3057.19
+94555;Kylee G. Martinez;29;Google;Customer Relations;2825.71
+50271;McKenzie H. Lindsey;38;Microsoft;Asset Management;1374.92
+2164;Jelani R. Stark;68;Sibelius;Payroll;2681.94
+36581;Nichole D. Manning;29;Finale;Customer Relations;9654.35
+84118;Lance W. Hoover;45;Google;Research and Development;5201.22
+55363;Catherine W. Mitchell;27;Microsoft;Sales and Marketing;8506.71
+26858;Guinevere F. Sellers;50;Apple Systems;Human Resources;5268.64
+86628;Winifred P. Mccarty;35;Lycos;Finances;1622.17
+15790;Daryl N. Cabrera;70;Macromedia;Payroll;4937.24
+66013;Nicole D. Valenzuela;62;Altavista;Quality Assurance;8273.25
+13623;Quyn T. Tran;26;Borland;Finances;2168.35
+11436;Myles N. Johnston;33;Macromedia;Legal Department;3250.34
+59580;Ocean K. Floyd;24;Sibelius;Quality Assurance;1762.69
+39353;Christen U. Herring;62;Borland;Media Relations;9470.69
+86696;Gemma B. Cobb;53;Finale;Payroll;6936.73
+59636;Beatrice W. Manning;28;Sibelius;Customer Relations;2520.69
+68590;Oliver W. Saunders;48;Lycos;Finances;6521.2
+87904;Moses H. Dixon;60;Lycos;Payroll;6448.55
+60129;Cara L. Moss;27;Borland;Customer Service;5923.8
+30197;Jerry Z. Bradford;46;Microsoft;Quality Assurance;3745.63
+1172;Adam P. Mcgee;62;Microsoft;Accounting;5731.8
+84216;Cole N. West;55;Microsoft;Sales and Marketing;5713.58
+56630;Tarik U. Oconnor;40;Finale;Asset Management;7831.23
+47991;Lawrence E. Mcmahon;33;Sibelius;Customer Service;5444.43
+57414;Cairo T. Holden;20;Altavista;Accounting;7654.92
+91564;Hashim V. Wilkinson;67;Sibelius;Research and Development;1574.15
+77105;Jaden S. Conrad;52;Cakewalk;Tech Support;2263.3
+35766;Shea T. Obrien;65;Yahoo;Accounting;3594.8
+49230;Rhiannon P. Vargas;44;Lycos;Finances;1201.49
+65500;Carla Q. Jones;62;Lavasoft;Customer Relations;4783.21
+24606;Adrienne X. Mccullough;69;Macromedia;Quality Assurance;7002.38
+97688;Nasim Y. Garrett;32;Chami;Research and Development;4081.67
+50369;Wynne F. Grimes;32;Chami;Customer Service;7481.71
+15537;Avye M. Glenn;51;Sibelius;Media Relations;5777.58
+69733;Freya J. Castro;22;Google;Accounting;9925.9
+68520;Rana S. Roman;45;Cakewalk;Research and Development;5496.69
+14908;Bradley C. Drake;64;Microsoft;Public Relations;8107.74
+20083;Alexis D. Ratliff;62;Yahoo;Customer Service;8573.1
+69283;Owen R. Lloyd;22;Yahoo;Quality Assurance;6231.75
+88936;Julie V. Koch;66;Lycos;Advertising;4998.72
+29189;Xyla Z. Farley;30;Chami;Advertising;3775.14
+30431;Dustin A. Cummings;24;Macromedia;Sales and Marketing;7117.11
+47022;Jane W. Rosales;53;Altavista;Sales and Marketing;7217.69
+82940;Nevada I. Spence;54;Borland;Finances;6485.18
+36007;Buffy D. Oneil;58;Yahoo;Human Resources;1029.37
+10560;Casey E. Durham;53;Altavista;Tech Support;8079.56
+96503;Hakeem S. Britt;24;Google;Human Resources;4152.15
+78343;Bruno Q. Reilly;68;Sibelius;Customer Service;7306.87
+81079;Claudia J. Jennings;53;Altavista;Human Resources;2303.54
+90079;Arsenio N. Schneider;20;Lycos;Public Relations;2140.98
+20757;Herrod H. Stafford;59;Lycos;Finances;2962.83
+26771;Magee H. Lang;53;Apple Systems;Customer Service;7510.09
+81593;Erich P. Kramer;47;Sibelius;Human Resources;6877.98
+44541;Wing G. Rios;38;Google;Sales and Marketing;7726.32
+92030;Rhea Y. Nunez;26;Sibelius;Payroll;4976.79
+88973;Bree H. Mclaughlin;34;Altavista;Human Resources;5077.35
+32805;Ulric S. Walton;63;Chami;Finances;2042.17
+30117;Ali R. Prince;60;Google;Sales and Marketing;2235.76
+90711;Myles D. Odom;23;Lavasoft;Customer Service;6409.03
+27510;Lunea A. Cross;39;Chami;Finances;5732.77
+6033;Camilla F. Chambers;51;Altavista;Finances;8253.55
+13955;Ciara G. Boyd;53;Yahoo;Human Resources;3981.31
+85648;Teagan V. Cash;44;Lycos;Research and Development;8632.87
+67656;Wynne R. Pena;54;Macromedia;Public Relations;7935.89
+65021;Eaton G. Gates;61;Chami;Human Resources;2439.79
+19452;Iola T. Burnett;35;Borland;Finances;7937.71
+74381;Matthew N. Hardin;49;Altavista;Advertising;9059.78
+21039;Chava G. Richmond;68;Microsoft;Payroll;2511.65
+72595;Geraldine X. Hoover;19;Macromedia;Payroll;4966.62
+74769;Nash L. Fuller;43;Chami;Research and Development;4360.9
+16453;Morgan N. Byrd;28;Apple Systems;Accounting;2145.68
+55110;Patricia R. Clayton;60;Apple Systems;Legal Department;4220.97
+38107;Ramona V. Forbes;18;Altavista;Asset Management;5430.9
+94194;Eagan X. Copeland;51;Finale;Media Relations;2171.53
+41161;Lenore N. Hahn;54;Finale;Legal Department;1042.39
+565;Wynne Z. Pruitt;43;Borland;Customer Relations;3625.12
+36898;Kirby J. Guerrero;19;Borland;Advertising;8988.49
+60951;Elijah Z. Harvey;27;Yahoo;Asset Management;8341.85
+22656;Francis L. Preston;69;Apple Systems;Human Resources;1837.43
+22528;Amal X. Tran;28;Macromedia;Legal Department;9461.43
+31243;Wang B. Vaughn;20;Adobe;Accounting;7840.91
+5378;Nicholas B. Smith;58;Lycos;Payroll;4450.29
+80320;Noel E. Morrow;32;Apple Systems;Payroll;1442.53
+12341;Astra P. Goodman;58;Borland;Human Resources;7060.82
+18593;Molly Y. Odom;38;Lavasoft;Advertising;7841.44
+16840;Barbara D. Brewer;47;Microsoft;Legal Department;4061.27
+59405;Zia M. Ruiz;23;Microsoft;Human Resources;1763.05
+81917;Damian N. Bryan;70;Apple Systems;Public Relations;8556.04
+43829;Clare Y. Barlow;40;Altavista;Customer Relations;9318.54
+27352;Noel A. Owens;55;Altavista;Human Resources;5983.9
+23346;Galena K. Delacruz;25;Finale;Payroll;6326.33
+88729;Quentin N. Smith;39;Adobe;Tech Support;7691.76
+58778;Veronica P. Dyer;28;Finale;Asset Management;6066.27
+24115;Maxwell Z. Logan;34;Finale;Accounting;7421.3
+56690;Nasim E. Guy;65;Microsoft;Legal Department;5860.07
+20655;Omar R. Fleming;24;Chami;Tech Support;2136.48
+86990;Lesley N. Long;23;Macromedia;Tech Support;7186.56
+21051;Aileen J. Graves;67;Finale;Media Relations;7366.24
+22059;Rahim U. Bauer;70;Microsoft;Quality Assurance;3272.91
+57727;Illiana T. Blackwell;23;Adobe;Finances;1463.4
+11789;Jena W. Rodgers;62;Yahoo;Tech Support;6187.89
+38550;Curran Q. Pollard;33;Google;Sales and Marketing;6875.32
+81069;Maris Y. Valenzuela;47;Chami;Asset Management;7583.82
+74606;Norman O. Salinas;67;Chami;Research and Development;1952.31
+64379;Addison A. Talley;56;Apple Systems;Accounting;4492.96
+38899;Kylan D. Rosales;20;Borland;Public Relations;9657.32
+11793;Cooper W. Cardenas;56;Lavasoft;Finances;6232.17
+76261;Veda K. Burns;41;Lycos;Media Relations;8040.81
+37031;Kai Q. Calhoun;49;Altavista;Human Resources;3177.76
+74373;Deacon B. Taylor;50;Apple Systems;Payroll;6494.78
+30381;Kevin F. Petty;64;Lavasoft;Tech Support;8147.71
+71765;Hunter M. Lopez;56;Google;Finances;3832.99
+17795;Donna B. Lester;32;Altavista;Tech Support;2383.54
+66199;Basia P. Holder;30;Apple Systems;Finances;4148.02
+96997;Neve Z. Long;55;Finale;Sales and Marketing;8552.06
+68989;Grant W. Greene;37;Adobe;Advertising;3641.68
+84092;Molly F. Wilcox;20;Finale;Payroll;8283.59
+25835;Garrison J. Ryan;22;Yahoo;Customer Relations;4267.89
+77331;Hyacinth F. Obrien;59;Apple Systems;Media Relations;7815.42
+59100;Arsenio Q. Singleton;29;Apple Systems;Public Relations;2873.67
+77633;Nash B. Mack;24;Apple Systems;Payroll;1301.87
+89448;Troy F. Cain;67;Google;Quality Assurance;5268.99
+17597;Colton S. Barber;62;Chami;Tech Support;8806.63
+10243;Clarke T. Whitfield;57;Yahoo;Customer Service;2622.09
+52322;Galvin Z. Harmon;32;Chami;Sales and Marketing;7960.19
+80455;Jocelyn P. Ingram;58;Lavasoft;Customer Service;9327.46
+58851;Lunea Q. Buchanan;55;Cakewalk;Quality Assurance;9763.02
+73864;Calvin L. Garza;21;Cakewalk;Public Relations;1746.29
+72741;Julie Q. Cooley;62;Microsoft;Research and Development;6132.46
+74699;Francesca O. Chapman;22;Finale;Media Relations;4062.93
+70729;Orla X. Bernard;60;Chami;Customer Service;3612.2
+8260;Adele H. Lancaster;45;Lycos;Customer Service;5596.92
+99511;Ferdinand Y. Cortez;47;Apple Systems;Customer Relations;1308.57
+26260;Montana E. Hopper;44;Borland;Tech Support;7200.05
+38955;Dexter N. Hatfield;67;Cakewalk;Advertising;9073.81
+88883;Sophia Y. Rodgers;67;Altavista;Tech Support;5048.27
+41176;Ina Q. Richmond;19;Finale;Customer Relations;8376.02
+35465;Jerry S. Johnston;37;Altavista;Accounting;5941.76
+69099;Paloma T. Lopez;59;Altavista;Quality Assurance;9620.37
+87987;Candice M. James;51;Lycos;Media Relations;6180.52
+35374;Palmer P. Foster;68;Cakewalk;Media Relations;4385.17
+61906;Zachery K. Miles;39;Sibelius;Asset Management;3402.59
+39664;Kane P. Whitfield;33;Lycos;Legal Department;1177.28
+82702;Judith B. Brooks;18;Finale;Finances;4886.04
+49718;Hadassah C. Wilder;31;Chami;Advertising;9354.44
+23806;Carly C. Byrd;66;Chami;Quality Assurance;9669.39
+52726;Lenore S. Shaffer;23;Altavista;Research and Development;3660.91
+4576;Courtney A. Malone;40;Apple Systems;Customer Relations;1887.19
+77154;Arthur H. Hanson;57;Lavasoft;Advertising;7119.25
+84557;Ori O. Freeman;55;Finale;Finances;3421.16
+42089;Christian L. Goff;69;Chami;Accounting;3357.59
+27780;Octavia I. Mcneil;39;Adobe;Tech Support;5417.92
+1322;Chase V. Jarvis;55;Yahoo;Tech Support;7612.6
+46756;Darryl W. Maynard;46;Borland;Finances;8219.31
+88861;Josephine T. Nieves;47;Microsoft;Human Resources;9076.82
+55563;Rebecca H. Woodard;31;Cakewalk;Research and Development;6091.63
+90631;Ebony K. Horton;58;Finale;Customer Service;8593.49
+79711;Karly D. Robbins;24;Macromedia;Public Relations;4254.35
+22840;Jacqueline V. Wall;69;Microsoft;Research and Development;5125.4
+54067;Ashton Q. Osborne;29;Yahoo;Public Relations;7400.62
+68823;Madonna E. Finley;41;Apple Systems;Public Relations;6156.39
+99776;Otto X. Clay;37;Lycos;Customer Relations;7175.74
+10238;Lilah H. William;45;Altavista;Sales and Marketing;1637.5
+44576;Jayme Q. Leon;47;Cakewalk;Media Relations;5866.46
+43788;Lars Z. Sexton;30;Lycos;Finances;3846.64
+7266;Howard U. Medina;20;Google;Accounting;7416.77
+93794;Aurelia R. Yates;51;Microsoft;Customer Relations;5342.76
+95213;Chaim B. Moses;34;Microsoft;Public Relations;1329.97
+919;Armand A. Hill;66;Chami;Customer Service;4397.55
+33634;Iliana D. Macias;61;Chami;Human Resources;6031.75
+45147;Minerva D. Key;50;Altavista;Human Resources;2953.29
+90344;Ocean R. Wall;41;Chami;Customer Service;3935.05
+49770;Brynne I. Bowen;21;Altavista;Customer Service;2043.24
+57527;Brody Y. Price;59;Cakewalk;Customer Service;4135.42
+7899;Alexis L. Hodges;63;Lycos;Payroll;2800.56
+46733;Aristotle S. Berg;47;Borland;Human Resources;9693.3
+60637;Jane F. Bridges;24;Google;Asset Management;7340.94
+99425;Shaine C. Owens;24;Lycos;Quality Assurance;4404.17
+77426;Chandler A. Kelley;54;Borland;Quality Assurance;7587.41
+54376;Kaye T. Hickman;26;Borland;Advertising;9152.37
+29868;Ginger T. Armstrong;65;Microsoft;Advertising;8748.73
+45137;Arthur L. Calderon;41;Lavasoft;Tech Support;5446.24
+7951;Keaton K. Garcia;63;Chami;Accounting;9596.51
+34266;Anne I. Stafford;45;Sibelius;Human Resources;5630.62
+47131;Shellie E. Berg;44;Google;Advertising;1730.87
+94706;Scarlett I. Church;53;Adobe;Public Relations;6721.92
+34521;Tara J. Jacobson;22;Apple Systems;Customer Service;3465.87
+53496;Justin O. Wilcox;22;Macromedia;Accounting;4711.68
+53092;Kamal I. Moran;43;Finale;Customer Service;1659.95
+39932;Zenia V. Webb;37;Microsoft;Public Relations;8511.14
+25687;Amela N. Bright;67;Sibelius;Research and Development;2379.51
+55496;Xavier R. Rasmussen;23;Cakewalk;Public Relations;7301.54
+802;Karleigh J. Roach;60;Apple Systems;Research and Development;9344.13
+73198;Kay Y. Warner;58;Cakewalk;Public Relations;1743.18
+11415;Fleur Z. Merritt;33;Finale;Sales and Marketing;4689.64
+29309;MacKenzie S. Perry;55;Lycos;Media Relations;4053.34
+91339;Rylee J. Bridges;21;Lycos;Customer Relations;5680.55
+86576;Violet N. Mendez;21;Finale;Payroll;9122.07
+64666;Petra X. Rodgers;45;Borland;Research and Development;7041.46
+88061;Allegra P. Snider;54;Altavista;Public Relations;5712.18
+48107;Kato I. Dean;58;Apple Systems;Media Relations;9086.93
+40183;Ignacia L. Jensen;70;Borland;Advertising;4083
+66781;Wayne E. Castaneda;51;Apple Systems;Asset Management;2415.24
+46491;Dacey O. Noble;65;Macromedia;Quality Assurance;3297.34
+46158;Julie W. Blanchard;48;Microsoft;Sales and Marketing;8172.07
+778;Nadine B. Conley;52;Lavasoft;Finances;1382.76
+63749;Lillith C. Palmer;70;Adobe;Quality Assurance;2540.06
+39734;Lunea A. Walls;38;Macromedia;Sales and Marketing;1356.81
+9452;Drake C. May;56;Adobe;Sales and Marketing;9139.27
+82829;Fatima O. Meyers;51;Finale;Customer Relations;4868.71
+52221;Gay P. Gould;42;Apple Systems;Customer Relations;2414.06
+71116;Maris G. Short;59;Microsoft;Research and Development;7908.52
+28540;Rashad E. Estes;25;Microsoft;Advertising;2236.85
+73070;Chava V. Kidd;19;Chami;Finances;3394.58
+50577;Frances P. Hopper;27;Altavista;Customer Relations;2371.2
+76520;Blaine Q. Ryan;24;Borland;Media Relations;3603.84
+2134;Martin E. Carver;29;Google;Sales and Marketing;4417.68
+25741;Reagan P. Stephens;22;Sibelius;Human Resources;8294.35
+60788;Hunter M. Morgan;63;Yahoo;Customer Service;7394.74
+43222;Tarik D. Trujillo;37;Chami;Quality Assurance;5002.02
+39992;Kimberley U. Cannon;24;Sibelius;Quality Assurance;7214.38
+2910;Daphne C. Acosta;25;Chami;Tech Support;9146.31
+23701;Ethan N. Callahan;62;Chami;Research and Development;8680.45
+24630;Hall X. Elliott;30;Chami;Media Relations;4954.89
+41396;Tamekah G. Gordon;48;Google;Customer Relations;2686.55
+97671;Noelani V. Stout;25;Sibelius;Legal Department;2335.57
+85465;Camilla O. Poole;31;Cakewalk;Research and Development;2440.88
+59168;Amethyst B. Rodgers;69;Macromedia;Accounting;7531.97
+59303;Cameran J. Battle;67;Lavasoft;Public Relations;8683.13
+41331;Kessie R. Hughes;53;Google;Quality Assurance;6344.68
+37559;Adrian M. Hebert;30;Apple Systems;Finances;4290.77
+7530;Bertha Q. Gill;43;Finale;Research and Development;8380.78
+25775;Callie A. Jacobson;61;Microsoft;Finances;4728
+86812;Hamilton O. Bates;31;Lavasoft;Asset Management;8313.18
+73312;Miranda E. William;62;Chami;Tech Support;3968.66
+39974;Upton G. Hodge;41;Microsoft;Customer Service;9647.18
+23365;Brody S. Britt;26;Finale;Public Relations;8941.4
+47169;Ashton W. Harrell;54;Cakewalk;Customer Relations;4613.72
+44838;Noel P. Berger;33;Google;Finances;4326.19
+500;Evangeline Y. Mclaughlin;34;Apple Systems;Payroll;3347.37
+30152;Quemby W. Keith;37;Macromedia;Accounting;9168.97
+31133;Griffith K. Kemp;52;Lycos;Asset Management;3836.59
+58005;Venus R. Key;28;Sibelius;Sales and Marketing;6543.69
+68483;Amos Z. Grimes;27;Borland;Quality Assurance;4699.54
+24118;Daphne T. Crawford;63;Finale;Asset Management;8284.42
+79831;Risa D. Woodard;49;Chami;Payroll;4484.77
+31236;Ferris G. Macdonald;31;Macromedia;Customer Relations;7284.56
+7461;Pamela T. Kelley;41;Cakewalk;Quality Assurance;5295
+68010;Cole Q. Mcmahon;42;Altavista;Asset Management;2852.75
+4340;Erin U. Allen;54;Macromedia;Legal Department;2312.92
+63267;Orla Y. Stark;43;Borland;Sales and Marketing;6650.73
+1689;Kirk L. Tillman;42;Lycos;Tech Support;2280.31
+16258;Paki T. Shannon;21;Cakewalk;Tech Support;7686.98
+17423;Benjamin N. Floyd;36;Lavasoft;Quality Assurance;4071.07
+64688;Nelle J. Herrera;22;Chami;Sales and Marketing;2784.66
+18134;Lenore J. Shelton;60;Altavista;Finances;4467.66
+9160;Adara L. Gentry;53;Macromedia;Customer Service;1477.74
+7598;Vladimir L. Walker;29;Sibelius;Asset Management;5397.04
+38213;Myra F. Sherman;56;Borland;Quality Assurance;7460.87
+18616;Chester U. Bowers;66;Lavasoft;Media Relations;9499.9
+64823;Camille F. Mason;21;Adobe;Customer Service;2385.4
+21623;Cruz C. Reeves;28;Adobe;Tech Support;7170.87
+3992;Autumn H. Bush;29;Borland;Customer Relations;4156.8
+16921;Bernard P. Miller;62;Borland;Payroll;9235.56
+49642;Bianca C. Webb;33;Altavista;Customer Relations;4337.03
+28308;Abbot D. Mcmillan;67;Cakewalk;Advertising;4956.35
+30313;Palmer T. Long;34;Chami;Finances;5275.98
+68421;Quamar I. Lucas;22;Lycos;Customer Service;8006.62
+30497;Octavius D. Erickson;68;Lavasoft;Accounting;9764.33
+57897;Cally I. Moran;54;Microsoft;Accounting;8607.88
+77717;Raya U. Ballard;68;Cakewalk;Public Relations;9308.4
+7456;Lisandra I. Levine;39;Borland;Payroll;3562.56
+92760;Candice J. Rhodes;22;Macromedia;Human Resources;8069.47
+78507;Colton B. Rosa;41;Finale;Media Relations;2076.33
+85731;Nell R. Sanders;21;Altavista;Human Resources;7196.76
+69028;Inga K. Wilcox;19;Apple Systems;Customer Relations;3366.4
+95374;Joelle P. Hutchinson;34;Lycos;Advertising;9628.37
+32456;Xander E. Meadows;69;Altavista;Asset Management;9417.36
+17584;Scarlet O. Dunlap;25;Yahoo;Customer Relations;6618.37
+10696;Montana I. Griffin;23;Lycos;Legal Department;9499.25
+42850;Amanda N. Woods;60;Borland;Accounting;3738.41
+36873;Scarlet L. Madden;50;Google;Sales and Marketing;9646.7
+73268;Wallace G. Andrews;64;Yahoo;Research and Development;8961.53
+57247;Aphrodite N. Vincent;69;Yahoo;Media Relations;4479.28
+91685;Aphrodite W. Clarke;61;Adobe;Media Relations;5740.07
+4383;Wing Z. Copeland;28;Altavista;Research and Development;9059.06
+38447;Jemima K. Ward;68;Microsoft;Asset Management;2070.05
+36996;Deirdre Z. Henson;60;Cakewalk;Customer Service;8745.96
+46900;Hannah E. Douglas;46;Microsoft;Tech Support;7790.12
+94085;Maggie P. Reed;36;Finale;Advertising;5024.33
+88919;Xantha K. Simmons;62;Macromedia;Quality Assurance;5308.89
+50308;Wynter K. Winters;63;Yahoo;Media Relations;1796.11
+56963;Kenneth B. Whitehead;39;Finale;Public Relations;2417.23
+20540;Rae F. Cortez;39;Cakewalk;Customer Relations;4517.81
+45619;Alexis B. Clemons;24;Sibelius;Accounting;9038.56
+96754;Adara K. Walsh;59;Cakewalk;Tech Support;8328.1
+45545;Hilda E. Burgess;35;Lycos;Quality Assurance;5624.39
+23409;Taylor L. Huff;25;Cakewalk;Customer Service;2643.53
+43340;Jarrod T. Lawson;24;Apple Systems;Legal Department;8836.73
+57344;Inez H. Stanley;36;Apple Systems;Sales and Marketing;1174.8
+29925;Raven D. Berg;33;Cakewalk;Asset Management;8511.13
+65474;Chastity B. Forbes;18;Adobe;Media Relations;1412.87
+39938;Basil J. Miller;54;Google;Payroll;2608.48
+25987;Randall Y. Jacobson;35;Borland;Finances;2288.12
+30076;Benedict H. Vinson;68;Sibelius;Tech Support;2247.32
+23039;Philip C. Deleon;55;Sibelius;Payroll;9277.09
+97103;Danielle O. Parsons;51;Sibelius;Human Resources;1046.41
+58203;Phelan Z. Avila;48;Finale;Legal Department;2495.8
+88295;Theodore X. Bailey;23;Cakewalk;Media Relations;3202.6
+80951;Eliana U. Boyd;40;Cakewalk;Sales and Marketing;4268.3
+85174;Aimee M. May;24;Adobe;Advertising;4474.95
+10337;Isabella H. Hogan;33;Lycos;Research and Development;8411.12
+28639;Kelly F. Kirkland;30;Yahoo;Quality Assurance;9146.18
+91820;Calista I. Moss;20;Lavasoft;Legal Department;7862.13
+83987;Justin L. Singleton;67;Lavasoft;Accounting;6692.13
+73622;Dominique Z. Sharp;22;Cakewalk;Advertising;3162.63
+70776;Debra X. Bowen;47;Borland;Quality Assurance;5584.03
+52924;Ava V. Yates;49;Sibelius;Customer Service;5803.54
+83024;Yuri L. Randall;45;Yahoo;Media Relations;4067.22
+31835;Hayes C. Gomez;21;Sibelius;Tech Support;9016.71
+64190;Halee W. Deleon;48;Cakewalk;Public Relations;7752.56
+80987;Quin Z. Gross;63;Chami;Customer Relations;1256.94
+85867;Ingrid V. Morgan;58;Yahoo;Media Relations;4693.63
+14584;Calista S. Dejesus;19;Chami;Advertising;3011.95
+36720;Lawrence K. Mckinney;58;Lavasoft;Asset Management;9493.87
+25169;Salvador G. Finley;55;Altavista;Tech Support;4242.78
+52727;Cora X. Holland;40;Macromedia;Customer Relations;6769.11
+32837;Penelope K. Roberts;34;Macromedia;Asset Management;3553.69
+47344;Aphrodite Q. Lee;57;Apple Systems;Public Relations;2253.91
+85487;Luke B. Oneal;21;Chami;Asset Management;9765.03
+24892;Gage E. Stevens;55;Sibelius;Asset Management;5491.23
+87936;Justine I. Becker;27;Borland;Media Relations;2118.57
+84158;Caleb H. Whitehead;35;Chami;Asset Management;2600.62
+55389;Jackson Y. Wolfe;24;Apple Systems;Public Relations;4896.64
+34961;Colorado X. Bishop;59;Microsoft;Tech Support;4176.63
+44268;Freya L. Vasquez;65;Lavasoft;Quality Assurance;3978.4
+10390;Callie A. Wolf;33;Borland;Finances;8906.98
+89742;Gannon A. Rivera;52;Macromedia;Media Relations;5207.15
+4601;Sean T. White;40;Lycos;Finances;6239.14
+67985;Graham H. Church;47;Sibelius;Finances;3721.18
+20722;Vanna B. Farmer;28;Macromedia;Accounting;8607.84
+33848;Kirby D. Atkinson;19;Cakewalk;Asset Management;5650.38
+35047;Stephanie B. Taylor;21;Google;Research and Development;2779.76
+69487;Alisa G. Sullivan;21;Microsoft;Customer Relations;4692.13
+47931;Yvette M. Shelton;25;Microsoft;Human Resources;3749.08
+39715;George Q. Kennedy;52;Macromedia;Advertising;1913.82
+41365;Shellie Z. King;70;Altavista;Accounting;7345.85
+86133;Demetria I. Hensley;59;Chami;Customer Relations;4072.44
+41717;Lester I. West;33;Macromedia;Tech Support;3670.71
+28393;Merrill B. Olson;63;Lavasoft;Finances;7001.1
+39261;Lacy S. Hayes;55;Altavista;Human Resources;6760.46
+7524;Leslie S. Kline;70;Google;Customer Service;5367.65
+61611;Deanna U. Glover;68;Lycos;Sales and Marketing;2191.68
+34670;Jarrod S. Hendricks;68;Adobe;Legal Department;5687.8
+20656;Grant A. Cash;64;Yahoo;Customer Service;5583.46
+50316;Germaine C. Burnett;56;Lycos;Accounting;8796.14
+67179;Rose T. Chase;44;Chami;Accounting;6082.57
+74106;Ariana D. Wise;34;Google;Media Relations;7974.98
+95828;Emily B. Noble;70;Macromedia;Research and Development;7787.56
+33777;Minerva D. Crosby;70;Yahoo;Tech Support;8872.35
+52914;Imelda U. Houston;57;Altavista;Advertising;3411.25
+80247;Nevada L. Bryan;69;Finale;Legal Department;3739.21
+76469;Cain J. Malone;28;Chami;Legal Department;8161.94
+11408;Ciara L. Reynolds;45;Lavasoft;Legal Department;4315.
