@@ -25,7 +25,7 @@ int main(){
     vet = Aloca_memoria(vet, elem);
 
     struct Funcionario dados_func;
-    *texto =
+    *texto = dados_func;
 
     switch(esc){
         case 1:
@@ -42,13 +42,14 @@ int main(){
 
         break;
         case 2:
-            printf("\nEscolha 2\n\n");
+            printf("\nEscolha 2\n2 - Arvore AVL com Ordenacao\n");
+
         break;
         case 3:
-            printf("\nEscolha 3\n\n");
+            printf("\nEscolha 3\n3 - Arvore Rubro-Negra sem Ordenacao\n");
         break;
         case 4:
-            printf("\nEscolha 4\n\n");
+            printf("\nEscolha 4\n4 - Arvore Rubro-Negra com Ordenacao\n");
         break;
         case 5:
             printf("\nAte a proxima!\n\n");
