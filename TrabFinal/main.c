@@ -18,7 +18,7 @@ int main(){
     }else{
         printf("abertura efetuada!\n");
     }
-
+    /*
     esc = Escolha_ordenacao(esc);
 
     //alocar memoria
@@ -26,7 +26,7 @@ int main(){
 
     struct Funcionario dados_func;
     *texto = dados_func;
-
+    */
     switch(esc){
         case 1:
             printf("\nEscolha 1\n1 - Arvore AVL sem Ordenacao\n");
